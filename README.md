@@ -14,7 +14,7 @@
 - 📩 Contate-me no email: contactaiexxplorer@gmail.com
 - 😄 Pronouns: ele/dele
 
-  <div align="center">
+  <div>
     <a href-"https://beacons.ai/aiexxplorer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&theme=vision-friendly-dark&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIExxplorer&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
