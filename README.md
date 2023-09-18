@@ -1,12 +1,20 @@
-## Olá! Me chamo Wagner Rafael,
-### criador do projeto AIExxplorer 🚀
+<h1 align="center">
+    <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153202513881870406/AIEXX_Minimalist_Logo_-_White.png" alt="Logo AIExxplorer" width="250" height="125">
+</h1>
 
-- 🔭 Hoje trabalho com full-stack
+  ##
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=35&duration=4000&pause=1000&color=8231F7&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%8F%BB;Me+chamo+Wagner+Rafael;Conhecido+como+AIExxplorer+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</h1>
+
+
+- 🔭 Atualmente estou trabalhando em projetos pessoais envolvendo Full-Stack e IA e buscando novas oportunidades!
 - 🌱 Estudando Análise e Desesenvolvimento de Sistemas e Inteligência Artificial
 - 📩 Contate-me no email: contactaiexxplorer@gmail.com
 - 😄 Pronouns: ele/dele
 
-  <div>
+  <div align="center">
     <a href-"https://beacons.ai/aiexxplorer">
     <img height-"180em" src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&theme=vision-friendly-dark&show_icons=true"/>
     <img height-"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIExxplorer&layout-compact&langs_count-16&theme=vision-friendly-dark/>
@@ -25,14 +33,11 @@
 
  ##
 
- <div> 
+ <div align="center"> 
   <a href="https://www.youtube.com/@aiexxplorer/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aiexxplorer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/TDqF54quAH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contactaiexxplorer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/AIExxplorer/AIExxplorer/blob/output/github-contribution-grid-snake.svg)
-
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=AIExxplorer&repo=AIExxplorer&theme=react)](https://github.com/AIExxplorer/AIExxplorer)
 </div>
