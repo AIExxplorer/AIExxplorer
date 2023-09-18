@@ -33,5 +33,6 @@
   <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/AIExxplorer/AIExxplorer/blob/output/github-contribution-grid-snake.svg)
-  
+
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=AIExxplorer&repo=AIExxplorer&theme=react)](https://github.com/AIExxplorer/AIExxplorer)
 </div>
