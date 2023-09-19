@@ -16,8 +16,8 @@
 
   <div align="center">
     <a href-"https://beacons.ai/aiexxplorer">
-    <img style="display: inline-block; width: 300px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&theme=vision-friendly-dark&show_icons=true"/>
-    <img style="display: inline-block; width: 268px; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIExxplorer&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+    <img style="display: inline-block; width: 370px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&theme=vision-friendly-dark&show_icons=true"/>
+    <img style="display: inline-block; width: 330px; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIExxplorer&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
   </div>
 
   ##
