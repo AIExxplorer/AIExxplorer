@@ -10,12 +10,15 @@
 
 ## <picture><img src = "https://cdn.discordapp.com/attachments/1100606273633914941/1165821390017007626/about_me.gif?ex=65483ec7&is=6535c9c7&hm=8a1e31a4d5b4105ef8a33f4894d9c1bb1b1e6089072e3a3d3ffce4e1fc7e0dec&" width = 50px></picture> **Sobre mim**
 
+<!--Intro start-->
 - 🔭 Atualmente estou trabalhando em projetos pessoais envolvendo Full-Stack e IA e buscando novas oportunidades!
 - 🌱 Cursando Análise e Desesenvolvimento de Sistemas
 - 🌱 Estudando Aprendizado de Máquina (Machine Learning) e Processamento de Linguagem Natural (NLP)
 - 📩 Contate-me no email: contactaiexxplorer@gmail.com
 - 😄 Pronouns: ele/dele
+<!--Intro end-->
 
+<!--- snake -->
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
@@ -28,9 +31,11 @@
     <img style="display: inline-block; width: 330px; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIExxplorer&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
   </div>
 
+<!--horizontal divider(gradiant)-->
 <div align="center"> 
     <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165822282745249903/Line.gif?ex=65483f9c&is=6535ca9c&hm=9ae9e0079b0b61eed5245c87d8c919ca94e2f32216f9fe9c429c58de89261e70&"><br><br>
 
+<!--tech stack icons-->
  <div align="center" style="display: inline_block">
   <br>
   <img align="center" alt="AIExxplorer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -42,6 +47,13 @@
   </div>
 
 ##
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Conecte-se comigo 🤝</h2></summary>
+  </ul>
+</div>
 
   <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -58,6 +70,8 @@
   <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
+<!--horizontal divider(gradiant)-->
 <div align="center"> 
     <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165822282745249903/Line.gif?ex=65483f9c&is=6535ca9c&hm=9ae9e0079b0b61eed5245c87d8c919ca94e2f32216f9fe9c429c58de89261e70&"><br><br>
 
