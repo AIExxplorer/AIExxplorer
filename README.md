@@ -8,6 +8,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=35&duration=4000&pause=1000&color=8231F7&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%8F%BB;Me+chamo+Wagner+Rafael;Conhecido+como+AIExxplorer+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
 
+## <picture><img src = "https://cdn.discordapp.com/attachments/1100606273633914941/1165821390017007626/about_me.gif?ex=65483ec7&is=6535c9c7&hm=8a1e31a4d5b4105ef8a33f4894d9c1bb1b1e6089072e3a3d3ffce4e1fc7e0dec&" width = 50px></picture> **Sobre mim**
 
 - 🔭 Atualmente estou trabalhando em projetos pessoais envolvendo Full-Stack e IA e buscando novas oportunidades!
 - 🌱 Cursando Análise e Desesenvolvimento de Sistemas
@@ -21,9 +22,10 @@
     <img style="display: inline-block; width: 330px; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIExxplorer&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
   </div>
 
-  ##
+<div align="center"> 
+    <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165822282745249903/Line.gif?ex=65483f9c&is=6535ca9c&hm=9ae9e0079b0b61eed5245c87d8c919ca94e2f32216f9fe9c429c58de89261e70&"><br><br>
 
-  <div align="center" style="display: inline_block">
+ <div align="center" style="display: inline_block">
   <br>
   <img align="center" alt="AIExxplorer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AIExxplorer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -33,9 +35,8 @@
   <img align="center" alt="AIExxplorer-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </div>
 
- ##
+##
 
- <div align="center"> 
   <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
@@ -51,6 +52,9 @@
   <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+<div align="center"> 
+    <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165822282745249903/Line.gif?ex=65483f9c&is=6535ca9c&hm=9ae9e0079b0b61eed5245c87d8c919ca94e2f32216f9fe9c429c58de89261e70&"><br><br>
+
 </div>
 
 
