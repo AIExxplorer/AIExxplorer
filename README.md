@@ -63,40 +63,75 @@
     <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165822282745249903/Line.gif?ex=65483f9c&is=6535ca9c&hm=9ae9e0079b0b61eed5245c87d8c919ca94e2f32216f9fe9c429c58de89261e70&"><br><br>
 
 <!--tech stack icons-->
- <div align="center" style="display: inline_block">
-  <br>
-  <img align="center" alt="AIExxplorer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="AIExxplorer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AIExxplorer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AIExxplorer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="AIExxplorer-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="AIExxplorer-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  </div>
-
-##
+<table align="center" style="width:100%">
+  <tr>
+    <td style="text-align: left;">
+      <div id="user-content-toc">
+        <ul align="center">
+          <summary><h2 style="display: inline-block">Tecnologias e ferramentas 🛠 </h2></summary>
+        </ul>
+      </div>
+      <table align="center" style="width:100%">
+  <tr>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="AIExxplorer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="AIExxplorer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="AIExxplorer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="AIExxplorer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="AIExxplorer-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="AIExxplorer-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      </div>
+    </td>
+  </tr>
+</table>
+    </td>
 <!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conecte-se comigo 🤝</h2></summary>
-  </ul>
-</div>
+    <td style="text-align: right;">
+      <ul align="center">
+        <summary><h2 style="display: inline-block">Conecte-se comigo 🤝</h2></summary>
+      </ul>
+      <div style="text-align: right;">
+        <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+        </a>
+        <a href="https://www.instagram.com/aiexxplorer/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        </a>
+        <a href="https://discord.gg/TDqF54quAH" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+        </a> 
+        <a href="mailto:contactaiexxplorer@gmail.com" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+        <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/aiexxplorer/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.gg/TDqF54quAH" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
-  <a href="mailto:contactaiexxplorer@gmail.com" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   
 <!--horizontal divider(gradiant)-->
 <div align="center"> 
