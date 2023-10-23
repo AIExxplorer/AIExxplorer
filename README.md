@@ -161,6 +161,27 @@
   </tr>
 </table>
 
+<!--- Obras Publicadas -->
+## <picture><img src = "https://cdn.discordapp.com/attachments/1100606273633914941/1165893438206648381/book-90.gif?ex=654881e0&is=65360ce0&hm=a4680fd10a44150fe1f67ba342f47fa155c53de6370200de8b14f7f9a68004c2&" width = 50px></picture> **Obras Publicadas**
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.amazon.com.br/Como-Pensar-Você-parou-pensar-ebook/dp/B0CD43X9X2#:~:text=Esta%20obra%20nasceu%20da%20inspiração,que%20a%20vida%20nos%20apresenta.">
+          <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165888813189578782/Capa.jpg?ex=65487d92&is=65360892&hm=94c1ad4b791d5fd614c53ddae7be1638f7b421aed697603647f9780363e093a9&" width="120" alt="Cracking eCommerce for fun and profit" />
+          <br />
+          <sub><b>Como Pensar? - Você já parou para pensar em como pensar?</b></sub>
+      </a>
+      <br />
+      <sub>Wagner Rafael</sub>
+    </td>
+</table>
+
+<!--horizontal divider(gradiant)-->
+<div align="center"> 
+    <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165822282745249903/Line.gif?ex=65483f9c&is=6535ca9c&hm=9ae9e0079b0b61eed5245c87d8c919ca94e2f32216f9fe9c429c58de89261e70&"><br><br>
+
+<!--- Decoração Final -->
 <table align="center" style="width:100%">
   <tr>
     <td style="text-align: center; width: 50%;">
@@ -172,6 +193,12 @@
       <div style="text-align: center;">
         <br><br>
         <img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+      </div>
+    </td>
+    <td style="text-align: center; width: 50%;">
+      <div style="text-align: center;">
+        <br><br>
+        <img align="center" width=200px height=200px alt="side_sticker" src="https://cdn.discordapp.com/attachments/1100606273633914941/1165895180344369222/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966.gif?ex=65488380&is=65360e80&hm=6b9a9d8e36038c2bd3ded25cb29801f89dce5051216217ce92ba96142964ab26&" />
       </div>
     </td>
   </tr>
