@@ -141,6 +141,18 @@
 
 <table align="center" style="width:100%">
   <tr>
+<details>
+    <summary>GitHub Trophys <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /></summary>
+    <!--- trophy (start) -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=AIExxplorer&theme=juicyfresh" alt="trophy">
+</a>
+</details>
+  </tr>
+</table>
+
+<table align="center" style="width:100%">
+  <tr>
     <td style="text-align: center; width: 50%;">
       <div style="display: inline-block;">
         <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165870494743007232/giphy.gif?ex=65486c82&is=6535f782&hm=71195cc78a83a1edfbb1418a0fb9e308d87fa85ccdac7cbd23282d0ef16104a0" alt="image1" style="max-width:100%; height:auto;">
