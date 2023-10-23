@@ -1,10 +1,18 @@
-<h1 align="center">
-    <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153202513881870406/AIEXX_Minimalist_Logo_-_White.png" alt="Logo AIExxplorer" width="250" height="125">
-</h1>
+<table align="center" style="width:100%">
+  <tr>
+    <td style="text-align: center; width: 50%;">
+      <h1 align="center">
+        <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153202513881870406/AIEXX_Minimalist_Logo_-_White.png" alt="Logo AIExxplorer" width="300" height="150">
+      </h1>
+    </td>
+    <td style="text-align: center; width: 50%;">
+      <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165881707543658507/BemVindoGH.gif?ex=654876f4&is=653601f4&hm=54f04404a093aa41f66c860cde72ca9ca49b33b9a258886cc053c2280f3ff9b4" alt="Welcome Image" width="500" height="250">
+    </td>
+  </tr>
+</table>
 
-  <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=35&duration=4000&pause=1000&color=8231F7&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%8F%BB;Me+chamo+Wagner+Rafael;Conhecido+como+AIExxplorer+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</h1>
+
+
 
 ## <picture><img src = "https://cdn.discordapp.com/attachments/1100606273633914941/1165821390017007626/about_me.gif?ex=65483ec7&is=6535c9c7&hm=8a1e31a4d5b4105ef8a33f4894d9c1bb1b1e6089072e3a3d3ffce4e1fc7e0dec&" width = 50px></picture> **Sobre mim**
 <picture><img align="right" src="https://cdn.discordapp.com/attachments/1100606273633914941/1165843212250923029/Right_Side.gif?ex=6548531a&is=6535de1a&hm=4d7623374c7ccae6de2d0edc2eec3b0e9a6b54e5ba66b80a1adc0d239c8cb7fa&" width = 250px></picture>
@@ -168,6 +176,5 @@
     </td>
   </tr>
 </table>
-
 
 </div>
