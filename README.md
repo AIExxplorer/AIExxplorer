@@ -16,6 +16,12 @@
 - 📩 Contate-me no email: contactaiexxplorer@gmail.com
 - 😄 Pronouns: ele/dele
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+  </a>
+</div>
+
   <div align="center">
     <a href-"https://beacons.ai/aiexxplorer">
     <img style="display: inline-block; width: 370px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&theme=vision-friendly-dark&show_icons=true"/>
