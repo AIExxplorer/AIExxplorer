@@ -111,7 +111,7 @@
       <ul align="center">
         <summary><h2 style="display: inline-block">Conecte-se comigo 🤝</h2></summary>
       </ul>
-      <div style="text-align: right;">
+      <div style="text-align: center;">
         <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
         </a>
