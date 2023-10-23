@@ -25,11 +25,36 @@
   </a>
 </div>
 
-  <div align="center">
-    <a href-"https://beacons.ai/aiexxplorer">
-    <img style="display: inline-block; width: 370px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&theme=vision-friendly-dark&show_icons=true"/>
-    <img style="display: inline-block; width: 330px; height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIExxplorer&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+<div style="display: flex;">
+  <div style="flex: 1; text-align: left;">
+    <a href="https://beacons.ai/aiexxplorer"></a><br>
+   <a href="https://git.io/streak-stats">
+  <img style="display: inline-block; width: 370px; height: 180px;" src="https://streak-stats.demolab.com?user=aiexxplorer&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB0505&ring=EBC818" alt="GitHub Streak" />
+</a>
+
+<div align="center">
+  <img style="width: 370px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&theme=vision-friendly-dark&show_icons=true"/>
+</div>
+
+<td width="50%" align="center">
+
   </div>
+  <div style="flex: 1; text-align: right;">
+    <img style="width: 550px; height: 280px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AIExxplorer&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </div>
+</div>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 <!--horizontal divider(gradiant)-->
 <div align="center"> 
