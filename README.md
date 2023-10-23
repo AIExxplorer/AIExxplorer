@@ -9,7 +9,9 @@
 </h1>
 
 ## <picture><img src = "https://cdn.discordapp.com/attachments/1100606273633914941/1165821390017007626/about_me.gif?ex=65483ec7&is=6535c9c7&hm=8a1e31a4d5b4105ef8a33f4894d9c1bb1b1e6089072e3a3d3ffce4e1fc7e0dec&" width = 50px></picture> **Sobre mim**
+<picture><img align="right" src="https://cdn.discordapp.com/attachments/1100606273633914941/1165843212250923029/Right_Side.gif?ex=6548531a&is=6535de1a&hm=4d7623374c7ccae6de2d0edc2eec3b0e9a6b54e5ba66b80a1adc0d239c8cb7fa&" width = 250px></picture>
 
+<br><br>
 <!--Intro start-->
 - 🔭 Atualmente estou trabalhando em projetos pessoais envolvendo Full-Stack e IA e buscando novas oportunidades!
 - 🌱 Cursando Análise e Desesenvolvimento de Sistemas
