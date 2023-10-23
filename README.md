@@ -2,9 +2,7 @@
     <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153202513881870406/AIEXX_Minimalist_Logo_-_White.png" alt="Logo AIExxplorer" width="250" height="125">
 </h1>
 
-  ##
-
-<h1 align="center">
+  <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Teko&size=35&duration=4000&pause=1000&color=8231F7&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B%F0%9F%8F%BB;Me+chamo+Wagner+Rafael;Conhecido+como+AIExxplorer+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
 
@@ -106,5 +104,9 @@
 
 </div>
 
+<div style="text-align: center;">
+    <br><br>
+    <img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+</div>
 
 </div>
