@@ -25,6 +25,7 @@
   </a>
 </div>
 
+## <picture><img src = "https://cdn.discordapp.com/attachments/1100606273633914941/1165841628292980786/Statistics.gif?ex=654851a0&is=6535dca0&hm=95f4725516573a60719fe1fdfa150e445144ee8c4d0e248660b957067ee3a65f&" width = 50px></picture> **GitHub Stats**
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -55,6 +56,7 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
 
 <!--horizontal divider(gradiant)-->
 <div align="center"> 
