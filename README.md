@@ -107,7 +107,7 @@
 </table>
     </td>
 <!-- Connect with me -->
-    <td style="text-align: right;">
+    <td style="text-align: center;">
       <ul align="center">
         <summary><h2 style="display: inline-block">Conecte-se comigo 🤝</h2></summary>
       </ul>
