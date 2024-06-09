@@ -2,11 +2,11 @@
   <tr>
     <td style="text-align: center; width: 50%;">
       <h1 align="center">
-        <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1153202513881870406/AIEXX_Minimalist_Logo_-_White.png" alt="Logo AIExxplorer" width="300" height="150">
+        <img src="https://utfs.io/f/d281edae-2e01-4eab-b0d1-a54e498e119b-avhxcl.png" alt="Logo AIExxplorer" width="300" height="150">
       </h1>
     </td>
     <td style="text-align: center; width: 50%;">
-      <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165881707543658507/BemVindoGH.gif?ex=654876f4&is=653601f4&hm=54f04404a093aa41f66c860cde72ca9ca49b33b9a258886cc053c2280f3ff9b4" alt="Welcome Image" width="500" height="250">
+      <img src="https://utfs.io/f/bd9b8e09-215b-4d81-a69a-d99db6a2fac3-eb30ql.gif" alt="Welcome Image" width="500" height="250">
     </td>
   </tr>
 </table>
@@ -14,8 +14,8 @@
 
 
 
-## <picture><img src = "https://cdn.discordapp.com/attachments/1100606273633914941/1165821390017007626/about_me.gif?ex=65483ec7&is=6535c9c7&hm=8a1e31a4d5b4105ef8a33f4894d9c1bb1b1e6089072e3a3d3ffce4e1fc7e0dec&" width = 50px></picture> **Sobre mim**
-<picture><img align="right" src="https://cdn.discordapp.com/attachments/1100606273633914941/1165843212250923029/Right_Side.gif?ex=6548531a&is=6535de1a&hm=4d7623374c7ccae6de2d0edc2eec3b0e9a6b54e5ba66b80a1adc0d239c8cb7fa&" width = 250px></picture>
+## <picture><img src = "https://utfs.io/f/51c574be-320f-48f4-a2f1-fdf673917ec9-qs4l1m.gif" width = 50px></picture> **Sobre mim**
+<picture><img align="right" src="https://utfs.io/f/1ab53b9b-9258-482f-b2d8-d33f4a82ed0c-a03rh6.gif" width = 250px></picture>
 
 <br><br>
 <!--Intro start-->
@@ -26,7 +26,7 @@
 - 😄 Pronouns: ele/dele
 <!--Intro end-->
 
-## <picture><img src = "https://cdn.discordapp.com/attachments/1100606273633914941/1165841628292980786/Statistics.gif?ex=654851a0&is=6535dca0&hm=95f4725516573a60719fe1fdfa150e445144ee8c4d0e248660b957067ee3a65f&" width = 50px></picture> **GitHub Stats**
+## <picture><img src = "https://utfs.io/f/d875764d-06bf-4067-9cef-3dda985bd47f-veji9v.gif" width = 50px></picture> **GitHub Stats**
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -155,13 +155,13 @@
 </table>
 
 <!--- Obras Publicadas -->
-## <picture><img src = "https://cdn.discordapp.com/attachments/1100606273633914941/1165893438206648381/book-90.gif?ex=654881e0&is=65360ce0&hm=a4680fd10a44150fe1f67ba342f47fa155c53de6370200de8b14f7f9a68004c2&" width = 50px></picture> **Obras Publicadas**
+## <picture><img src = "https://utfs.io/f/b481765a-778a-4133-9a10-48ca21b3c1ef-12h6d7.gif" width = 50px></picture> **Obras Publicadas**
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://www.amazon.com.br/Como-Pensar-Você-parou-pensar-ebook/dp/B0CD43X9X2#:~:text=Esta%20obra%20nasceu%20da%20inspiração,que%20a%20vida%20nos%20apresenta.">
-          <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165888813189578782/Capa.jpg?ex=65487d92&is=65360892&hm=94c1ad4b791d5fd614c53ddae7be1638f7b421aed697603647f9780363e093a9&" width="120" alt="Cracking eCommerce for fun and profit" />
+          <img src="https://utfs.io/f/fc83aded-8e86-4f81-9f03-075371af18ef-18usv.jpg" width="120" alt="Cracking eCommerce for fun and profit" />
           <br />
           <sub><b>Como Pensar? - Você já parou para pensar em como pensar?</b></sub>
       </a>
@@ -179,7 +179,7 @@
   <tr>
     <td style="text-align: center; width: 50%;">
       <div style="display: inline-block;">
-        <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165870494743007232/giphy.gif?ex=65486c82&is=6535f782&hm=71195cc78a83a1edfbb1418a0fb9e308d87fa85ccdac7cbd23282d0ef16104a0" alt="image1" style="max-width:100%; height:auto;">
+        <img src="https://utfs.io/f/265283db-b851-44df-a5d8-2274f9934e0f-1mk8db.gif" alt="image1" style="max-width:100%; height:auto;">
       </div>
     </td>
     <td style="text-align: center; width: 50%;">
@@ -191,7 +191,7 @@
     <td style="text-align: center; width: 50%;">
       <div style="text-align: center;">
         <br><br>
-        <img align="center" width=200px height=200px alt="side_sticker" src="https://cdn.discordapp.com/attachments/1100606273633914941/1165895180344369222/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966.gif?ex=65488380&is=65360e80&hm=6b9a9d8e36038c2bd3ded25cb29801f89dce5051216217ce92ba96142964ab26&" />
+        <img align="center" width=200px height=200px alt="side_sticker" src="https://utfs.io/f/42079a11-a2d8-43e5-852b-3d423400a10a-hjvkg.gif" />
       </div>
     </td>
   </tr>
