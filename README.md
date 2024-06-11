@@ -61,7 +61,7 @@
 
 <!--horizontal divider(gradiant)-->
 <div align="center"> 
-    <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165822282745249903/Line.gif?ex=65483f9c&is=6535ca9c&hm=9ae9e0079b0b61eed5245c87d8c919ca94e2f32216f9fe9c429c58de89261e70&"><br><br>
+    <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png"><br><br>
 
 <!--tech stack icons-->
 <table align="center" style="width:100%">
@@ -136,7 +136,7 @@
   
 <!--horizontal divider(gradiant)-->
 <div align="center"> 
-    <img src="https://cdn.discordapp.com/attachments/1100606273633914941/1165822282745249903/Line.gif?ex=65483f9c&is=6535ca9c&hm=9ae9e0079b0b61eed5245c87d8c919ca94e2f32216f9fe9c429c58de89261e70&"><br><br>
+    <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png"><br><br>
 
 </div>
 
