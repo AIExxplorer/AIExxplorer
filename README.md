@@ -49,7 +49,7 @@
 
   </div>
   <div style="flex: 1; text-align: right;">
-    <img style="width: 550px; height: 280px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AIExxplorer&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    <img style="width: 550px; height: 480px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AIExxplorer&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </div>
 </div>
 
