@@ -35,7 +35,7 @@
 <td width="50%" align="center">
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; text-align: left;">
+  <div style= text-align: left;">
     <a href="https://beacons.ai/aiexxplorer"></a><br>
     <img src="https://streak-stats.demolab.com?user=AIExxplorer&locale=pt_BR&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="280" alt="streak graph" />
     <img src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="300" alt="stats graph" />
@@ -72,10 +72,10 @@
     <td style="text-align: left;">
       <div id="user-content-toc">
         <ul align="center">
-          <summary><h2 style="display: inline-block">Tecnologias e ferramentas 🛠 </h2></summary>
+          <summary><h2 style="display: inline-block">Tecnologias e Frameworks 🌐</h2></summary>
         </ul>
       </div>
-      <table align="center" style="width:100%">
+<table align="center" style="width:100%">
   <tr>
     <td style="text-align: center; width: 16.66%;">
       <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
@@ -105,6 +105,38 @@
     <td style="text-align: center; width: 16.66%;">
       <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
         <img align="center" alt="AIExxplorer-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="typescript logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="react logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="nextjs logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="postgresql logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="tailwindcss logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 16.66%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img width="12" />
       </div>
     </td>
   </tr>
