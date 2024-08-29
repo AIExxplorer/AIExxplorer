@@ -253,36 +253,51 @@
 </a>
 </details>
   </tr>
-</table>
-
-<!--- Obras Publicadas -->
-
-<table align="center">
+<table align="center" style="width: 100%;">
   <tr>
-    <td align="center">
-       <picture><img src="https://utfs.io/f/b481765a-778a-4133-9a10-48ca21b3c1ef-12h6d7.gif" width="50px"></picture>
-      <h3 style="margin-bottom: 10px;">Obras Publicadas</h3>
-      <a href="https://www.amazon.com.br/Como-Pensar-Você-parou-pensar-ebook/dp/B0CD43X9X2#:~:text=Esta%20obra%20nasceu%20da%20inspiração,que%20a%20vida%20nos%20apresenta.">
-        <img src="https://utfs.io/f/fc83aded-8e86-4f81-9f03-075371af18ef-18usv.jpg" width="120" alt="Como Pensar? - Você já parou para pensar em como pensar?" />
-        <br />
-        <sub><b>Como Pensar? - Você já parou para pensar em como pensar?</b></sub>
-      </a>
-      <br />
-      <sub>Wagner Rafael</sub>
+    <!-- Quadro para o título e imagem de Obras Publicadas -->
+    <td align="center" style="padding: 10px;">
+      <div style="border: 1px solid #ccc; padding: 20px; margin-bottom: 15px; display: inline-block; background-color: #1a1a1a; width: 100%; max-width: 300px;">
+        <picture><img src="https://utfs.io/f/b481765a-778a-4133-9a10-48ca21b3c1ef-12h6d7.gif" width="50px"></picture>
+        <h3 style="margin: 10px 0; color: white;">Obras Publicadas</h3>
+      </div>
     </td>
-    <td width="50%" align="center">
-      <picture><img src="https://utfs.io/f/b6ee87e7-2cac-43de-a1cb-96179493e916-1beoi.gif" width="50px"></picture>
-      <h3 style="margin-bottom: 10px;">Jogo em Scratch (CS50 Harvard)</h3>
-      <a href="https://scratch.mit.edu/projects/1056591567">
-        <img src="https://utfs.io/f/4de71a0d-4c89-4e2d-a8a1-82edd5bfd31f-not81c.png" width="300" alt="Exploring Relics - Game CS50 Harvard Course" />
+    <!-- Quadro para o título e imagem de Jogo em Scratch -->
+    <td align="center" style="padding: 10px;">
+      <div style="border: 1px solid #ccc; padding: 20px; margin-bottom: 15px; display: inline-block; background-color: #1a1a1a; width: 100%; max-width: 300px;">
+        <picture><img src="https://utfs.io/f/b6ee87e7-2cac-43de-a1cb-96179493e916-1beoi.gif" width="50px"></picture>
+        <h3 style="margin: 10px 0; color: white;">Jogo em Scratch (CS50 Harvard)</h3>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <!-- Quadro do conteúdo principal de Obras Publicadas -->
+    <td align="center" style="padding: 10px;">
+      <div style="border: 1px solid #ccc; padding: 10px; background-color: #1a1a1a; display: inline-block; width: 100%; max-width: 300px;">
+        <a href="https://www.amazon.com.br/Como-Pensar-Você-parou-pensar-ebook/dp/B0CD43X9X2#:~:text=Esta%20obra%20nasceu%20da%20inspiração,que%20a%20vida%20nos%20apresenta.">
+          <img src="https://utfs.io/f/fc83aded-8e86-4f81-9f03-075371af18ef-18usv.jpg" width="120" alt="Como Pensar? - Você já parou para pensar em como pensar?" />
+          <br />
+          <sub><b>Como Pensar? - Você já parou para pensar em como pensar?</b></sub>
+        </a>
         <br />
-        <sub><b>Exploring Relics - Game CS50 Harvard Course</b></sub>
-      </a>
-      <br />
-      <sub>Wagner Rafael</sub>
+        <sub>Wagner Rafael</sub>
+      </div>
+    </td>
+    <!-- Quadro do conteúdo principal de Jogo em Scratch -->
+    <td align="center" style="padding: 10px;">
+      <div style="border: 1px solid #ccc; padding: 10px; background-color: #1a1a1a; display: inline-block; width: 100%; max-width: 300px;">
+        <a href="https://scratch.mit.edu/projects/1056591567">
+          <img src="https://utfs.io/f/4de71a0d-4c89-4e2d-a8a1-82edd5bfd31f-not81c.png" width="300" alt="Exploring Relics - Game CS50 Harvard Course" />
+          <br />
+          <sub><b>Exploring Relics - Game CS50 Harvard Course</b></sub>
+        </a>
+        <br />
+        <sub>Wagner Rafael</sub>
+      </div>
     </td>
   </tr>
 </table>
+
 
 
 <!--horizontal divider(gradiant)-->
