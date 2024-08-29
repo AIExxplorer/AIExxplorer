@@ -170,6 +170,16 @@
       <br />
       <sub>Wagner Rafael</sub>
     </td>
+    <td width="50%" align="center">
+      <a href="https://scratch.mit.edu/projects/1056591567">
+          <img src="https://utfs.io/f/4de71a0d-4c89-4e2d-a8a1-82edd5bfd31f-not81c.png" width="300" alt="MIT Scratch Harvard CS50 AIExxplorer Game" />
+          <br />
+          <sub><b>Exploring Relics - Game CS50 Harvard Course</b></sub>
+      </a>
+      <br />
+      <sub>Wagner Rafael</sub>
+    </td>
+    
 </table>
 
 <!--horizontal divider(gradiant)-->
