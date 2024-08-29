@@ -131,12 +131,12 @@
     </td>
     <td style="text-align: center; width: 16.66%;">
       <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="tailwindcss logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+        <img align="center" alt="tailwindcss logo" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4">
       </div>
     </td>
-    <td style="text-align: center; width: 16.66%;">
+    <td style="text-align: center; width: 10%;">
       <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img width="12" />
+        <img align="center" alt="prisma logo" height="30" width="40" src="https://cdn.simpleicons.org/prisma/2D3748">
       </div>
     </td>
   </tr>
@@ -144,9 +144,11 @@
     </td>
 <!-- Connect with me -->
     <td style="text-align: center;">
-      <ul align="center">
-        <summary><h2 style="display: inline-block">Conecte-se comigo 🤝</h2></summary>
-      </ul>
+      <div id="user-content-toc"> 
+        <ul align="center">
+          <summary><h2 style="display: inline-block">Conecte-se comigo 🤝</h2></summary>
+        </ul>
+      </div>
       <div style="text-align: center;">
         <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -163,6 +165,76 @@
         <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+  <!--tools and skills-->
+<table align="center" style="width:100%">
+  <tr>
+    <td style="text-align: left;">
+      <div id="user-content-toc">
+        <ul align="center">
+          <summary><h2 style="display: inline-block">Ferramentas e Skills 🛠</h2></summary>
+        </ul>
+      </div>
+<table align="center" style="width:100%">
+ <td style="text-align: center; width: 10%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="aftereffects logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 10%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="photoshop logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 10%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="illustrator logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 10%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 10%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="canva logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 10%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="vscode logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+      </div>
+    </td>
+    <td style="text-align: center; width: 10%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032">
+      </div>
+    </td>
+    <td style="text-align: center; width: 10%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="markdown logo" height="30" width="40" src="https://cdn.simpleicons.org/markdown/000000">
+      </div>
+    </td>
+    <td style="text-align: center; width: 10%;">
+      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+        <img align="center" alt="supabase logo" height="30" width="40" src="https://cdn.simpleicons.org/supabase/3ECF8E">
+      </div>
+    </td>
+  </tr>
+</table>
+    </td>
+<!-- Connect with me -->
+    <td style="text-align: center;">
+      <div id="user-content-toc"> 
+        <ul align="center">
+          <summary><h2 style="display: inline-block">Em breve...</h2></summary>
+        </ul>
       </div>
     </td>
   </tr>
