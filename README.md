@@ -34,28 +34,32 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<div style="display: flex;">
+<div style="display: flex; align="center">
   <div style="flex: 1; text-align: left;">
     <a href="https://beacons.ai/aiexxplorer"></a><br>
    <a href="https://git.io/streak-stats">
-  <img style="display: inline-block; width: 370px; height: 180px;" src="https://streak-stats.demolab.com?user=aiexxplorer&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB0505&ring=EBC818" alt="GitHub Streak" />
-</a>
+  <img src="https://streak-stats.demolab.com?user=AIExxplorer&locale=pt_BR&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="280" alt="streak graph"  />
 
-<div align="center">
-  <img style="width: 370px; height: 180px;" src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&theme=vision-friendly-dark&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="300" alt="stats graph"  />
 </div>
 
 <td width="50%" align="center">
 
   </div>
   <div style="flex: 1; text-align: right;">
-    <img style="width: 550px; height: 480px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AIExxplorer&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      <img style="width: 550px; height: 480px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=AIExxplorer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=react&hide_border=true&order=2" height="150" alt="languages graph" hide_border=true&order=1"  />
   </div>
 </div>
 
   </td>
 </tr>
 </table>
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIExxplorer&radius=16&theme=react&area=true&order=5&hide_border=true" height="350" alt="activity-graph graph"  />
+</div>
+
+</div>
+
 <!--- stats (end) -->
 
 
@@ -147,8 +151,7 @@
 <details>
     <summary>GitHub Trophies <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /></summary>
     <!--- trophy (start) -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AIExxplorer&theme=juicyfresh" alt="trophy">
+    <img src="https://github-profile-trophy.vercel.app?username=AIExxplorer&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </a>
 </details>
   </tr>
@@ -196,10 +199,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIExxplorer&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
 
