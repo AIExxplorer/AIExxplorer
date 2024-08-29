@@ -6,7 +6,7 @@
       </h1>
     </td>
     <td style="text-align: center; width: 50%;">
-      <img src="https://utfs.io/f/bd9b8e09-215b-4d81-a69a-d99db6a2fac3-eb30ql.gif" alt="Welcome Image" width="500" height="250">
+      <img src="https://utfs.io/f/0378fc38-2300-4123-9edd-d9bb72243010-jja9hg.gif" alt="Welcome Image" width="700" height="350">
     </td>
   </tr>
 </table>
