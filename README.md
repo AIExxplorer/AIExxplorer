@@ -197,4 +197,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIExxplorer&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 </div>
