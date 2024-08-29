@@ -30,31 +30,24 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-<div style="display: flex; align-items: center;">
-  <div style= text-align: left;">
-    <a href="https://beacons.ai/aiexxplorer"></a><br>
-    <img src="https://streak-stats.demolab.com?user=AIExxplorer&locale=pt_BR&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="280" alt="streak graph" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="300" alt="stats graph" />
-  </div>
-</div>
-
-<td width="50%" align="center">
-
-  </div>
-  <div style="flex: 1; text-align: right;">
-      <img style="width: 550px; height: 480px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=AIExxplorer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=react&hide_border=true&order=2" height="150" alt="languages graph" hide_border=true&order=1"  />
-  </div>
-</div>
-
-  </td>
-</tr>
+<table align="center" style="width: 100%;">
+  <tr style="vertical-align: middle;">
+    <td width="50%" align="center" style="padding: 0;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 5px; width: 100%; max-width: 480px; height: 100%;">
+        <img src="https://streak-stats.demolab.com?user=AIExxplorer&locale=pt_BR&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" style="width: 100%; height: auto; max-width: 480px;" alt="streak graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" style="width: 100%; height: auto; max-width: 480px;" alt="stats graph" />
+      </div>
+    </td>
+    <td width="50%" align="center" style="padding: 0;">
+      <div style="display: flex; justify-content: center; align-items: center; width: 100%; max-width: 480px; height: 100%;">
+        <img style="width: 100%; height: auto; max-width: 480px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=AIExxplorer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=react&hide_border=true&order=2" alt="languages graph" />
+      </div>
+    </td>
+  </tr>
 </table>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIExxplorer&radius=16&theme=react&area=true&order=5&hide_border=true" height="350" alt="activity-graph graph"  />
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIExxplorer&radius=16&theme=react&area=true&order=5&hide_border=true" height="370" alt="activity-graph graph"  />
 </div>
 
 </div>
@@ -63,8 +56,10 @@
 
 
 <!--horizontal divider(gradiant)-->
-<div align="center"> 
-    <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png"><br><br>
+<div align="center" style="height: 480px;"> 
+    <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png" style="max-height: 100%; height: auto;"><br><br>
+</div>
+
 
 <!--tech stack icons-->
 <table align="center" style="width:100%">
@@ -252,7 +247,7 @@
 
 <!--- GitHub Trophy -->
 <details>
-    <summary>GitHub Trophies <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /></summary>
+    <summary align="center">GitHub Trophies <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /></summary>
     <!--- trophy (start) -->
     <img src="https://github-profile-trophy.vercel.app?username=AIExxplorer&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </a>
@@ -261,30 +256,34 @@
 </table>
 
 <!--- Obras Publicadas -->
-## <picture><img src = "https://utfs.io/f/b481765a-778a-4133-9a10-48ca21b3c1ef-12h6d7.gif" width = 50px></picture> **Obras Publicadas**
 
 <table align="center">
   <tr>
     <td align="center">
+       <picture><img src="https://utfs.io/f/b481765a-778a-4133-9a10-48ca21b3c1ef-12h6d7.gif" width="50px"></picture>
+      <h3 style="margin-bottom: 10px;">Obras Publicadas</h3>
       <a href="https://www.amazon.com.br/Como-Pensar-Você-parou-pensar-ebook/dp/B0CD43X9X2#:~:text=Esta%20obra%20nasceu%20da%20inspiração,que%20a%20vida%20nos%20apresenta.">
-          <img src="https://utfs.io/f/fc83aded-8e86-4f81-9f03-075371af18ef-18usv.jpg" width="120" alt="Cracking eCommerce for fun and profit" />
-          <br />
-          <sub><b>Como Pensar? - Você já parou para pensar em como pensar?</b></sub>
+        <img src="https://utfs.io/f/fc83aded-8e86-4f81-9f03-075371af18ef-18usv.jpg" width="120" alt="Como Pensar? - Você já parou para pensar em como pensar?" />
+        <br />
+        <sub><b>Como Pensar? - Você já parou para pensar em como pensar?</b></sub>
       </a>
       <br />
       <sub>Wagner Rafael</sub>
     </td>
     <td width="50%" align="center">
+      <picture><img src="https://utfs.io/f/b6ee87e7-2cac-43de-a1cb-96179493e916-1beoi.gif" width="50px"></picture>
+      <h3 style="margin-bottom: 10px;">Jogo em Scratch (CS50 Harvard)</h3>
       <a href="https://scratch.mit.edu/projects/1056591567">
-          <img src="https://utfs.io/f/4de71a0d-4c89-4e2d-a8a1-82edd5bfd31f-not81c.png" width="300" alt="MIT Scratch Harvard CS50 AIExxplorer Game" />
-          <br />
-          <sub><b>Exploring Relics - Game CS50 Harvard Course</b></sub>
+        <img src="https://utfs.io/f/4de71a0d-4c89-4e2d-a8a1-82edd5bfd31f-not81c.png" width="300" alt="Exploring Relics - Game CS50 Harvard Course" />
+        <br />
+        <sub><b>Exploring Relics - Game CS50 Harvard Course</b></sub>
       </a>
       <br />
       <sub>Wagner Rafael</sub>
     </td>
-    
+  </tr>
 </table>
+
 
 <!--horizontal divider(gradiant)-->
 <div align="center"> 
