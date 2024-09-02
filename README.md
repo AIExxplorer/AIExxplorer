@@ -62,83 +62,84 @@
 
 
 <!--tech stack icons-->
+<!--tech stack icons-->
 <table align="center" style="width:100%">
   <tr>
-    <td style="text-align: left;">
+    <td style="text-align: left; width: 50%;">
       <div id="user-content-toc">
         <ul align="center">
           <summary><h2 style="display: inline-block">Tecnologias e Frameworks 🌐</h2></summary>
         </ul>
       </div>
-<table align="center" style="width:100%">
-  <tr>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="AIExxplorer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      </div>
+      <table align="center" style="width:100%">
+        <tr>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="AIExxplorer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="AIExxplorer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="AIExxplorer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="AIExxplorer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="AIExxplorer-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="AIExxplorer-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="typescript logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="react logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="nextjs logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="postgresql logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="tailwindcss logo" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="prisma logo" height="30" width="40" src="https://cdn.simpleicons.org/prisma/2D3748">
+            </div>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="AIExxplorer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="AIExxplorer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="AIExxplorer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="AIExxplorer-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="AIExxplorer-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="typescript logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="react logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="nextjs logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="postgresql logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 16.66%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="tailwindcss logo" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4">
-      </div>
-    </td>
-    <td style="text-align: center; width: 10%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="prisma logo" height="30" width="40" src="https://cdn.simpleicons.org/prisma/2D3748">
-      </div>
-    </td>
-  </tr>
-</table>
-    </td>
-<!-- Connect with me -->
-    <td style="text-align: center;">
+    <!-- Connect with me -->
+    <td style="text-align: center; width: 50%;">
       <div id="user-content-toc"> 
         <ul align="center">
           <summary><h2 style="display: inline-block">Conecte-se comigo 🤝</h2></summary>
@@ -165,82 +166,90 @@
   </tr>
 </table>
 
-
-  <!--tools and skills-->
+<!--tools and skills-->
 <table align="center" style="width:100%">
   <tr>
-    <td style="text-align: left;">
+    <td style="text-align: left; width: 50%;">
       <div id="user-content-toc">
         <ul align="center">
           <summary><h2 style="display: inline-block">Ferramentas e Skills 🛠</h2></summary>
         </ul>
       </div>
-<table align="center" style="width:100%">
- <td style="text-align: center; width: 10%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="aftereffects logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+      <table align="center" style="width:100%">
+        <tr>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="aftereffects logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="photoshop logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="illustrator logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="canva logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="vscode logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="markdown logo" height="30" width="40" src="https://cdn.simpleicons.org/markdown/000000">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="supabase logo" height="30" width="40" src="https://cdn.simpleicons.org/supabase/3ECF8E">
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- GitHub Sponsor -->
+   <td style="text-align: center; width: 50%;">
+  <div id="user-content-toc"> 
+    <ul align="center">
+      <summary><h2 style="display: inline-block">💎 GitHub Sponsor</h2></summary>
+      <div align="center"> 
+        <a href="https://github.com/sponsors/AIExxplorer" target="_blank" rel="noopener noreferrer">
+          <img src="https://utfs.io/f/8f0eb26c-bd07-42b5-addf-56ed87a922b0-5l9j8o...2.gif" alt="Logo AIExxplorer" width="448" height="252">
+        </a>
       </div>
-    </td>
-    <td style="text-align: center; width: 10%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="photoshop logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 10%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="illustrator logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 10%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 10%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="canva logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 10%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="vscode logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-      </div>
-    </td>
-    <td style="text-align: center; width: 10%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032">
-      </div>
-    </td>
-    <td style="text-align: center; width: 10%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="markdown logo" height="30" width="40" src="https://cdn.simpleicons.org/markdown/000000">
-      </div>
-    </td>
-    <td style="text-align: center; width: 10%;">
-      <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-        <img align="center" alt="supabase logo" height="30" width="40" src="https://cdn.simpleicons.org/supabase/3ECF8E">
-      </div>
-    </td>
-  </tr>
-</table>
-    </td>
-<!-- Connect with me -->
-    <td style="text-align: center;">
-      <div id="user-content-toc"> 
-        <ul align="center">
-          <summary><h2 style="display: inline-block">Em breve...</h2></summary>
-        </ul>
-      </div>
-    </td>
-  </tr>
+    </ul>
+  </div>
+</td>
+</tr>
+
 </table>
 
   
 <!--horizontal divider(gradiant)-->
-<div align="center"> 
-    <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png"><br><br>
-
+<div>
+ <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png"><br><br>
 </div>
+
 
 <table align="center" style="width:100%">
   <tr>
