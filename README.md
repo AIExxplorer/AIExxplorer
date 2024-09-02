@@ -231,7 +231,7 @@
    <td style="text-align: center; width: 50%;">
   <div id="user-content-toc"> 
     <ul align="center">
-      <summary><h2 style="display: inline-block">💎 GitHub Sponsor</h2></summary>
+      <summary><h2 style="display: inline-block">GitHub Sponsor 💎</h2></summary>
       <div align="center"> 
         <a href="https://github.com/sponsors/AIExxplorer" target="_blank" rel="noopener noreferrer">
           <img src="https://utfs.io/f/8f0eb26c-bd07-42b5-addf-56ed87a922b0-5l9j8o...2.gif" alt="Logo AIExxplorer" width="358" height="202">
