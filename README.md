@@ -252,16 +252,21 @@
 
 
 <table align="center" style="width:100%">
-  <tr>
+  
+<!-- GitHub Trophy -->
 
-<!--- GitHub Trophy -->
-<details>
-    <summary align="center">GitHub Trophies <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /></summary>
-    <!--- trophy (start) -->
-    <img src="https://github-profile-trophy.vercel.app?username=AIExxplorer&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</a>
-</details>
-  </tr>
+<tr>
+    <td style="text-align: center;">
+        <h3 style="text-align: center;">GitHub Trophies 
+            <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" style="margin-left: 10px;" />
+        </h3>
+        <div style="text-align: center;">
+            <img src="https://github-profile-trophy.vercel.app?username=AIExxplorer&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
+        </div>
+    </td>
+</tr>
+
+  
 <table align="center" style="width: 100%;">
   <tr>
     <!-- Quadro para o título e imagem de Obras Publicadas -->
