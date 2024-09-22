@@ -246,8 +246,8 @@
 
   
 <!--horizontal divider(gradiant)-->
-<div>
- <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png"><br><br>
+<div align="center" style="height: 480px;"> 
+ <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png" style="max-height: 100%; height: auto;"><br><br>
 </div>
 
 
@@ -315,8 +315,9 @@
 
 
 <!--horizontal divider(gradiant)-->
-<div align="center"> 
-    <img src="https://utfs.io/f/39a6ea71-136f-4e70-8967-ee59796f2b9c-yoprc8.svg"><br><br>
+<div align="center" style="width:100%"> 
+    <img src="https://utfs.io/f/39a6ea71-136f-4e70-8967-ee59796f2b9c-yoprc8.svg" style="max-height: 100%; height: auto;"><br><br>
+</div>
 
 <!--- Decoração Final -->
 <table align="center" style="width:100%">
@@ -343,4 +344,8 @@
 
 ###
 
+</div>
+
+<div align="center" style="width: 100%;">
+      <img src="https://utfs.io/f/LHbyWnn8DdVPn6zLtcwGs3RXFjmiES7ybAMwO50nao8l41rZ" alt="CodingTheFuture">
 </div>
