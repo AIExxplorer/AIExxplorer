@@ -14,7 +14,7 @@
 
 
 
-## <picture><img src = "https://utfs.io/f/51c574be-320f-48f4-a2f1-fdf673917ec9-qs4l1m.gif" width = 50px></picture> **Sobre mim**
+## <picture><img src = "https://utfs.io/f/51c574be-320f-48f4-a2f1-fdf673917ec9-qs4l1m.gif" width = 50px></picture> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=350&height=40&lines=Sobre+Mim" alt="Typing SVG" /></a>
 <picture><img align="right" src="https://utfs.io/f/1ab53b9b-9258-482f-b2d8-d33f4a82ed0c-a03rh6.gif" width = 250px></picture>
 
 <br><br>
@@ -26,7 +26,7 @@
 - 😄 Pronouns: ele/dele
 <!--Intro end-->
 
-## <picture><img src = "https://utfs.io/f/d875764d-06bf-4067-9cef-3dda985bd47f-veji9v.gif" width = 50px></picture> **GitHub Stats**
+## <picture><img src = "https://utfs.io/f/d875764d-06bf-4067-9cef-3dda985bd47f-veji9v.gif" width = 50px></picture> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=350&height=40&lines=GitHub+Stats" alt="Typing SVG" /></a>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -68,7 +68,7 @@
     <td style="text-align: left; width: 50%;">
       <div id="user-content-toc">
         <ul align="center">
-          <summary><h2 style="display: inline-block">Tecnologias e Frameworks 🌐</h2></summary>
+          <summary><h2 style="display: inline-block"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=350&height=40&lines=Tecnologias+e+Frameworks" alt="Typing SVG" /></a> 🌐</h2></summary>
         </ul>
       </div>
       <table align="center" style="width:100%">
@@ -142,7 +142,7 @@
     <td style="text-align: center; width: 50%;">
       <div id="user-content-toc"> 
         <ul align="center">
-          <summary><h2 style="display: inline-block">Conecte-se comigo 🤝</h2></summary>
+          <summary><h2 style="display: inline-block"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=185&height=40&lines=Conecte-se+comigo" alt="Typing SVG" /></a> 🤝</h2></summary>
         </ul>
       </div>
       <div style="text-align: center;">
