@@ -68,7 +68,7 @@
     <td style="text-align: left; width: 50%;">
       <div id="user-content-toc">
         <ul align="center">
-          <summary><h2 style="display: inline-block"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=350&height=40&lines=Tecnologias+e+Frameworks" alt="Typing SVG" /></a> 🌐</h2></summary>
+          <summary><h2 style="display: inline-block"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=260&height=40&lines=Tecnologias+e+Frameworks" alt="Typing SVG" /></a> 🌐</h2></summary>
         </ul>
       </div>
       <table align="center" style="width:100%">
@@ -172,7 +172,7 @@
     <td style="text-align: left; width: 50%;">
       <div id="user-content-toc">
         <ul align="center">
-          <summary><h2 style="display: inline-block">Ferramentas e Skills 🛠</h2></summary>
+          <summary><h2 style="display: inline-block"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=220&height=40&lines=Ferramentas+e+Skills" alt="Typing SVG" /></a> 🛠</h2></summary>
         </ul>
       </div>
       <table align="center" style="width:100%">
@@ -231,7 +231,7 @@
    <td style="text-align: center; width: 50%;">
   <div id="user-content-toc"> 
     <ul align="center">
-      <summary><h2 style="display: inline-block">GitHub Sponsor 💎</h2></summary>
+      <summary><h2 style="display: inline-block"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=180&height=40&lines=GitHub+Sponsor" alt="Typing SVG" /></a> 💎</h2></summary>
       <div align="center"> 
         <a href="https://github.com/sponsors/AIExxplorer" target="_blank" rel="noopener noreferrer">
           <img src="https://utfs.io/f/8f0eb26c-bd07-42b5-addf-56ed87a922b0-5l9j8o...2.gif" alt="Logo AIExxplorer" width="358" height="202">
