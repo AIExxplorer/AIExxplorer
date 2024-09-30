@@ -154,12 +154,12 @@
         </a>
         <a href="https://discord.gg/TDqF54quAH" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-        </a> 
-        <a href="mailto:contactaiexxplorer@gmail.com" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
         <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href="mailto:aiexxplorer@artificialuniverse.tech" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
         </a>
       </div>
     </td>
