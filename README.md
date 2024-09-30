@@ -22,7 +22,7 @@
 - 🔭 Atualmente estou trabalhando em projetos pessoais envolvendo Full-Stack e IA e buscando novas oportunidades!
 - 🌱 Cursando Análise e Desesenvolvimento de Sistemas
 - 🌱 Estudando Aprendizado de Máquina (Machine Learning) e Processamento de Linguagem Natural (NLP)
-- 📩 Contate-me no email: contactaiexxplorer@gmail.com
+- 📩 Contate-me no email: aiexxplorer@artificialuniverse.tech
 - 😄 Pronouns: ele/dele
 <!--Intro end-->
 
