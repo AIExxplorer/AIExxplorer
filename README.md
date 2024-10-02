@@ -224,6 +224,11 @@
               <img align="center" alt="supabase logo" height="30" width="40" src="https://cdn.simpleicons.org/supabase/3ECF8E">
             </div>
           </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="supabase logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+            </div>
+          </td>
         </tr>
       </table>
     </td>
