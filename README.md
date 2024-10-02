@@ -62,7 +62,6 @@
 
 
 <!--tech stack icons-->
-<!--tech stack icons-->
 <table align="center" style="width:100%">
   <tr>
     <td style="text-align: left; width: 50%;">
@@ -169,7 +168,7 @@
 <!--tools and skills-->
 <table align="center" style="width:100%">
   <tr>
-    <td style="text-align: left; width: 50%;">
+    <td style="text-align: left; width: 100%;">
       <div id="user-content-toc">
         <ul align="center">
           <summary><h2 style="display: inline-block"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=220&height=40&lines=Ferramentas+e+Skills" alt="Typing SVG" /></a> 🛠</h2></summary>
@@ -226,7 +225,17 @@
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="supabase logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+              <img align="center" alt="notion logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+            </div>
+          </td>
+          <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="discord logo" height="30" width="40" src="https://utfs.io/f/LHbyWnn8DdVPAjYNvLsaBlNJLMwyfgx6q0149QGtRbDIc2ZX">
+            </div>
+          </td>
+        <td style="text-align: center; width: 16.66%;">
+            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+              <img align="center" alt="discord logo" height="30" width="40" src="https://utfs.io/f/LHbyWnn8DdVPBlOXgb23FRCWqV2Ayns0EjewTJ8iU16QDSpP">
             </div>
           </td>
         </tr>
