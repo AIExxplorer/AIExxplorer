@@ -139,7 +139,7 @@
     </td>
     <td>
 <!-- Connect with me -->
-<table align="center" style="width:100%;">
+<table align="center" style="width:75%;">
   <tr>
     <td colspan="3" style="text-align: center;">
       <div id="user-content-toc"> 
