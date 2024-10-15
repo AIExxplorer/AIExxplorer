@@ -61,13 +61,20 @@
 </div>
 
 
-<!--tech stack icons-->
-<table align="center" style="width:100%">
+<!-- Principal Table to align both sections side by side -->
+<table align="center" style="width:100%;">
   <tr>
-    <td style="text-align: left; width: 50%;">
+    <!-- Tech Stack Icons Section -->
+    <td style="text-align: center; width: 50%;">
       <div id="user-content-toc">
         <ul align="center">
-          <summary><h2 style="display: inline-block"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=260&height=40&lines=Tecnologias+e+Frameworks" alt="Typing SVG" /></a> 🌐</h2></summary>
+          <summary>
+            <h2 style="display: inline-block">
+              <a href="https://git.io/typing-svg">
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=260&height=40&lines=Tecnologias+e+Frameworks" alt="Typing SVG" />
+              </a> 🌐
+            </h2>
+          </summary>
         </ul>
       </div>
       <table align="center" style="width:100%">
@@ -103,6 +110,7 @@
             </div>
           </td>
         </tr>
+        <!-- Second row -->
         <tr>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
@@ -137,58 +145,59 @@
         </tr>
       </table>
     </td>
-    <td>
-<!-- Connect with me -->
-<table align="center" style="width:75%;">
-  <tr>
-    <td colspan="3" style="text-align: center;">
-      <div id="user-content-toc"> 
+    <!-- Connect with me Section -->
+    <td style="text-align: center; width: 50%;">
+      <div id="user-content-toc">
         <ul align="center">
-          <summary><h2 style="display: inline-block"> 
-            <a href="https://git.io/typing-svg">
-              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=185&height=40&lines=Conecte-se+comigo" alt="Typing SVG" />
-            </a> 🤝
-          </h2></summary>
+          <summary>
+            <h2 style="display: inline-block">
+              <a href="https://git.io/typing-svg">
+                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=185&height=40&lines=Conecte-se+comigo" alt="Typing SVG" />
+              </a> 🤝
+            </h2>
+          </summary>
         </ul>
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://www.instagram.com/aiexxplorer/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://discord.gg/TDqF54quAH" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <a href="mailto:aiexxplorer@artificialuniverse.tech" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Zoho-E42527.svg?style=for-the-badge&logo=Zoho&logoColor=white">
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://wa.me/553171295198" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white">
-      </a>
+      <table align="center" style="width:100%;">
+        <tr>
+          <td style="text-align: center; width: 33%;">
+            <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+            </a>
+          </td>
+          <td style="text-align: center; width: 33%;">
+            <a href="https://www.instagram.com/aiexxplorer/" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+            </a>
+          </td>
+          <td style="text-align: center; width: 33%;">
+            <a href="https://discord.gg/TDqF54quAH" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white">
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; width: 33%;">
+            <a href="mailto:aiexxplorer@artificialuniverse.tech" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/Zoho-E42527.svg?style=for-the-badge&logo=Zoho&logoColor=white">
+            </a>
+          </td>
+          <td style="text-align: center; width: 33%;">
+            <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+            </a>
+          </td>
+          <td style="text-align: center; width: 33%;">
+            <a href="https://wa.me/553171295198" target="_blank" rel="noopener noreferrer">
+              <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white">
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-</td>
+
 
 <!--tools and skills-->
 <table align="center" style="width:100%">
