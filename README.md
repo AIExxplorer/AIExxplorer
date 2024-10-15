@@ -147,56 +147,74 @@
     </td>
     <!-- Connect with me Section -->
     <td style="text-align: center; width: 50%;">
-      <div id="user-content-toc">
+      <div id="user-content-toc"> 
         <ul align="center">
-          <summary>
-            <h2 style="display: inline-block">
-              <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=185&height=40&lines=Conecte-se+comigo" alt="Typing SVG" />
-              </a> 🤝
-            </h2>
-          </summary>
+          <summary><h2 style="display: inline-block"> 
+            <a href="https://git.io/typing-svg">
+              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=185&height=40&lines=Conecte-se+comigo" alt="Typing SVG" />
+            </a> 🤝
+          </h2></summary>
         </ul>
       </div>
-      <table align="center" style="width:100%;">
+      <table align="center" style="width:100%; table-layout:fixed;">
         <tr>
-          <td style="text-align: center; width: 33%;">
-            <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-            </a>
+          <!-- YouTube -->
+          <td style="text-align: center; padding: 10px;">
+            <div style="width: 100px; height: 40px; display: flex; justify-content: center; align-items: center;">
+              <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
+                <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="width: 90px; height: 25px;">
+              </a>
+            </div>
           </td>
-          <td style="text-align: center; width: 33%;">
-            <a href="https://www.instagram.com/aiexxplorer/" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-            </a>
+          <!-- Instagram -->
+          <td style="text-align: center; padding: 10px;">
+            <div style="width: 100px; height: 40px; display: flex; justify-content: center; align-items: center;">
+              <a href="https://www.instagram.com/aiexxplorer/" target="_blank" rel="noopener noreferrer">
+                <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="width: 90px; height: 25px;">
+              </a>
+            </div>
           </td>
-          <td style="text-align: center; width: 33%;">
-            <a href="https://discord.gg/TDqF54quAH" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white">
-            </a>
+          <!-- Discord -->
+          <td style="text-align: center; padding: 10px;">
+            <div style="width: 100px; height: 40px; display: flex; justify-content: center; align-items: center;">
+              <a href="https://discord.gg/TDqF54quAH" target="_blank" rel="noopener noreferrer">
+                <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" style="width: 90px; height: 25px;">
+              </a>
+            </div>
           </td>
         </tr>
         <tr>
-          <td style="text-align: center; width: 33%;">
-            <a href="mailto:aiexxplorer@artificialuniverse.tech" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/Zoho-E42527.svg?style=for-the-badge&logo=Zoho&logoColor=white">
-            </a>
+          <!-- Zoho -->
+          <td style="text-align: center; padding: 10px;">
+            <div style="width: 100px; height: 40px; display: flex; justify-content: center; align-items: center;">
+              <a href="mailto:aiexxplorer@artificialuniverse.tech" target="_blank" rel="noopener noreferrer">
+                <img src="https://img.shields.io/badge/Zoho-E42527.svg?style=for-the-badge&logo=Zoho&logoColor=white" style="width: 90px; height: 25px;">
+              </a>
+            </div>
           </td>
-          <td style="text-align: center; width: 33%;">
-            <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-            </a>
+          <!-- LinkedIn -->
+          <td style="text-align: center; padding: 10px;">
+            <div style="width: 100px; height: 40px; display: flex; justify-content: center; align-items: center;">
+              <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
+                <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="width: 90px; height: 25px;">
+              </a>
+            </div>
           </td>
-          <td style="text-align: center; width: 33%;">
-            <a href="https://wa.me/553171295198" target="_blank" rel="noopener noreferrer">
-              <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white">
-            </a>
+          <!-- WhatsApp -->
+          <td style="text-align: center; padding: 10px;">
+            <div style="width: 100px; height: 40px; display: flex; justify-content: center; align-items: center;">
+              <a href="https://wa.me/553171295198" target="_blank" rel="noopener noreferrer">
+                <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" style="width: 90px; height: 25px;">
+              </a>
+            </div>
           </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
+
+
 
 
 <!--tools and skills-->
