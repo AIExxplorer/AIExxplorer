@@ -146,20 +146,23 @@
       </div>
       <div style="text-align: center;">
         <a href="https://www.youtube.com/@aiexxplorer/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+          <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
         </a>
         <a href="https://www.instagram.com/aiexxplorer/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+          <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
         </a>
         <a href="https://discord.gg/TDqF54quAH" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-        </a>
-        <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white">
         </a>
         <a href="mailto:aiexxplorer@artificialuniverse.tech" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
+          <img src="https://img.shields.io/badge/Zoho-E42527.svg?style=for-the-badge&logo=Zoho&logoColor=white">
         </a>
+        <a href="https://www.linkedin.com/in/aiexxplorer/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
+        </a>
+        <a href="https://wa.me/553171295198" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white">
+        </a>      
       </div>
     </td>
   </tr>
