@@ -19,7 +19,7 @@
 
 <br><br>
 <!--Intro start-->
-- 🔭 Atualmente estou trabalhando em projetos pessoais envolvendo Full-Stack e IA e buscando novas oportunidades!
+- 🔭 Atualmente, estou me dedicando a projetos pessoais e colaborativos em Full-Stack, IA e Machine Learning, com foco em soluções inovadoras para empresas de tecnologia e startups.
 - 🌱 Cursando Análise e Desesenvolvimento de Sistemas
 - 🌱 Estudando Aprendizado de Máquina (Machine Learning) e Processamento de Linguagem Natural (NLP)
 - 📩 Contate-me no email: aiexxplorer@artificialuniverse.tech
