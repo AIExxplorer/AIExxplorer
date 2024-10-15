@@ -206,6 +206,11 @@
               <img align="center" alt="vscode logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
             </div>
           </td>
+          <td style="text-align: center; width: 16.66%;">
+           <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+             <img align="center" alt="pycharm logo" height="30" width="40" src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000">
+          </div>
+        </td>
         </tr>
         <tr>
           <td style="text-align: center; width: 16.66%;">
@@ -233,11 +238,16 @@
               <img align="center" alt="discord logo" height="30" width="40" src="https://utfs.io/f/LHbyWnn8DdVPAjYNvLsaBlNJLMwyfgx6q0149QGtRbDIc2ZX">
             </div>
           </td>
-        <td style="text-align: center; width: 16.66%;">
+          <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
               <img align="center" alt="discord logo" height="30" width="40" src="https://utfs.io/f/LHbyWnn8DdVPBlOXgb23FRCWqV2Ayns0EjewTJ8iU16QDSpP">
             </div>
           </td>
+          <td style="text-align: center; width: 16.66%;">
+           <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
+             <img align="center" alt="jupyter-notebook logo" height="30" width="40" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000">
+          </div>
+        </td>
         </tr>
       </table>
     </td>
