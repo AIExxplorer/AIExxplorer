@@ -194,22 +194,22 @@
         <tr>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="aftereffects logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+              <img align="center" alt="aftereffects logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="photoshop logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+              <img align="center" alt="photoshop logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="illustrator logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+              <img align="center" alt="illustrator logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+              <img align="center" alt="figma logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
@@ -219,44 +219,44 @@
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="vscode logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+              <img align="center" alt="vscode logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
            <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-             <img align="center" alt="pycharm logo" height="30" width="40" src="https://img.icons8.com/?size=100&id=vinpBD5oA3b4&format=png&color=000000">
+             <img align="center" alt="pycharm logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyCharm-Dark.svg">
           </div>
         </td>
         </tr>
         <tr>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032">
+              <img align="center" alt="git logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="markdown logo" height="30" width="40" src="https://cdn.simpleicons.org/markdown/000000">
+              <img align="center" alt="markdown logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Markdown-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="supabase logo" height="30" width="40" src="https://cdn.simpleicons.org/supabase/3ECF8E">
+              <img align="center" alt="supabase logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="notion logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
+              <img align="center" alt="notion logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Notion-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="discord logo" height="30" width="40" src="https://utfs.io/f/LHbyWnn8DdVPAjYNvLsaBlNJLMwyfgx6q0149QGtRbDIc2ZX">
+              <img align="center" alt="discord logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="discord logo" height="30" width="40" src="https://utfs.io/f/LHbyWnn8DdVPBlOXgb23FRCWqV2Ayns0EjewTJ8iU16QDSpP">
+              <img align="center" alt="google cloud sdk" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/GCP-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
