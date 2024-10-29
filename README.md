@@ -58,55 +58,55 @@
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="AIExxplorer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+              <img align="center" alt="AIExxplorer-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="AIExxplorer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+              <img align="center" alt="typescript logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="AIExxplorer-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+              <img align="center" alt="AIExxplorer-Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="AIExxplorer-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+              <img align="center" alt="AIExxplorer-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
             </div>
           </td>
         </tr>
         <!-- Second row -->
-        <tr>
-          <td style="text-align: center; width: 16.66%;">
+         <tr> 
+         <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="typescript logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+              <img align="center" alt="AIExxplorer-Java" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="react logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+              <img align="center" alt="react logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="nextjs logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+              <img align="center" alt="nextjs logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="postgresql logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+              <img align="center" alt="postgresql logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="tailwindcss logo" height="30" width="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4">
+              <img align="center" alt="tailwindcss logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg">
             </div>
           </td>
           <td style="text-align: center; width: 16.66%;">
             <div style="width: 50px; height: 50px; border: 1px solid #ddd; display: flex; justify-content: center; align-items: center;">
-              <img align="center" alt="prisma logo" height="30" width="40" src="https://cdn.simpleicons.org/prisma/2D3748">
+              <img align="center" alt="prisma logo" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg">
             </div>
           </td>
         </tr>
