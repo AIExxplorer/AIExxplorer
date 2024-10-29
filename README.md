@@ -326,12 +326,14 @@
           <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIExxplorer&theme=react" style="width: 100%; height: auto; max-width: 300px;" alt="Top Languages by Repo" />
         </div>
       </td>
-      <!-- Logo Centralizada -->
-      <td width="30%" align="center" style="padding: 0;">
-        <div style="display: flex; align-items: center; justify-content: center; width: 100%; height: 100%;">
-          <img src="https://utfs.io/f/R5gnNDuWc5V9fwdSZroKCyNMLxTYwi3lZHpBSOPQ7IG56oA8" style="width: 250px; height: 250px; object-fit: contain;" alt="Logo Artificial Universe" />
-        </div>
-      </td>
+<!-- Logo Centralizada -->
+<td width="30%" align="center" style="padding: 0;">
+  <div style="display: flex; align-items: center; justify-content: center; width: 100%; height: 100%;">
+    <a href="https://www.linkedin.com/company/artificialuniverse/?viewAsMember=true" target="_blank">
+      <img src="https://utfs.io/f/R5gnNDuWc5V9fwdSZroKCyNMLxTYwi3lZHpBSOPQ7IG56oA8" style="width: 250px; height: 250px; object-fit: contain;" alt="Logo Artificial Universe" />
+    </a>
+  </div>
+</td>
       <!-- Commits (UTC +8.00) -->
       <td width="35%" align="center" style="padding: 0;">
         <div style="display: flex; align-items: center; justify-content: center; width: 100%; height: 100%;">
