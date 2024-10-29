@@ -13,8 +13,9 @@ jobs:
       - uses: actions/checkout@v3
       - uses: AIExxplorer/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: path/to/custom-settings.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
