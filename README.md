@@ -310,16 +310,43 @@
   </tr>
 </table>
 
-
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIExxplorer&radius=16&theme=react&area=true&order=5&hide_border=true" height="370" alt="activity-graph graph"  />
+<!-- Profile Summary and Contribution Graph -->
+<div style="margin: 0; padding: 0; display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 960px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIExxplorer&theme=react" style="width: 100%; height: auto; max-width: 960px;" alt="profile-summary graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIExxplorer&radius=16&theme=react&area=true&order=5&hide_border=true" style="width: 100%; height: auto; max-width: 960px; margin-top: 5px;" alt="activity-graph graph" />
 </div>
+
+<!-- Top Languages by Repo, Logo, and Commits (UTC +8.00) -->
+<p align="center">
+  <table align="center" style="width: 100%; max-width: 960px;">
+    <tr style="vertical-align: middle;">
+      <!-- Top Languages by Repo -->
+      <td width="35%" align="center" style="padding: 0;">
+        <div style="display: flex; align-items: center; justify-content: center; width: 100%; height: 100%;">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIExxplorer&theme=react" style="width: 100%; height: auto; max-width: 300px;" alt="Top Languages by Repo" />
+        </div>
+      </td>
+      <!-- Logo Centralizada -->
+      <td width="30%" align="center" style="padding: 0;">
+        <div style="display: flex; align-items: center; justify-content: center; width: 100%; height: 100%;">
+          <img src="https://utfs.io/f/R5gnNDuWc5V9fwdSZroKCyNMLxTYwi3lZHpBSOPQ7IG56oA8" style="width: 250px; height: 250px; object-fit: contain;" alt="Logo Artificial Universe" />
+        </div>
+      </td>
+      <!-- Commits (UTC +8.00) -->
+      <td width="35%" align="center" style="padding: 0;">
+        <div style="display: flex; align-items: center; justify-content: center; width: 100%; height: 100%;">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIExxplorer&theme=react&utcOffset=8" style="width: 100%; height: auto; max-width: 300px;" alt="Commits (UTC +8.00)" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 
 </div>
 
 <!--- stats (end) -->
-
-
-
 
 <table align="center" style="width:100%">
   
