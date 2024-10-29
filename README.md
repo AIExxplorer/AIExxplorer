@@ -27,33 +27,6 @@
 <!--Intro end-->
 
 ## <picture><img src = "https://utfs.io/f/d875764d-06bf-4067-9cef-3dda985bd47f-veji9v.gif" width = 50px></picture> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=350&height=40&lines=GitHub+Stats" alt="Typing SVG" /></a>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center" style="width: 100%;">
-  <tr style="vertical-align: middle;">
-    <td width="50%" align="center" style="padding: 0;">
-      <div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 5px; width: 100%; max-width: 480px; height: 100%;">
-        <img src="https://streak-stats.demolab.com?user=AIExxplorer&locale=pt_BR&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=EB2A2A&order=3" style="width: 100%; height: auto; max-width: 480px;" alt="streak graph" />
-        <img src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" style="width: 100%; height: auto; max-width: 480px;" alt="stats graph" />
-      </div>
-    </td>
-    <td width="50%" align="center" style="padding: 0;">
-      <div style="display: flex; justify-content: center; align-items: center; width: 100%; max-width: 480px; height: 100%;">
-        <img style="width: 100%; height: auto; max-width: 480px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=AIExxplorer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=react&hide_border=true&order=2" alt="languages graph" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIExxplorer&radius=16&theme=react&area=true&order=5&hide_border=true" height="370" alt="activity-graph graph"  />
-</div>
-
-</div>
-
-<!--- stats (end) -->
-
 
 <!--horizontal divider(gradiant)-->
 <div align="center" style="height: 480px;"> 
@@ -325,6 +298,36 @@
 <div align="center" style="height: 480px;"> 
  <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png" style="max-height: 100%; height: auto;"><br><br>
 </div>
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center" style="width: 100%;">
+  <tr style="vertical-align: middle;">
+    <td width="50%" align="center" style="padding: 0;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 5px; width: 100%; max-width: 480px; height: 100%;">
+        <img src="https://streak-stats.demolab.com?user=AIExxplorer&locale=pt_BR&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=EB2A2A&order=3" style="width: 100%; height: auto; max-width: 480px;" alt="streak graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AIExxplorer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" style="width: 100%; height: auto; max-width: 480px;" alt="stats graph" />
+      </div>
+    </td>
+    <td width="50%" align="center" style="padding: 0;">
+      <div style="display: flex; justify-content: center; align-items: center; width: 100%; max-width: 480px; height: 100%;">
+        <img style="width: 100%; height: auto; max-width: 480px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=AIExxplorer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=react&hide_border=true&order=2" alt="languages graph" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIExxplorer&radius=16&theme=react&area=true&order=5&hide_border=true" height="370" alt="activity-graph graph"  />
+</div>
+
+</div>
+
+<!--- stats (end) -->
+
+
 
 
 <table align="center" style="width:100%">
