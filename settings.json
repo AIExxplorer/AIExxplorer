@@ -1,5 +1,4 @@
-- uses: AIExxplorer/github-profile-3d-contrib@main
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    USERNAME: ${{ github.repository_owner }}
-    SETTING_JSON: "settings.json"
+{
+  "theme": "night-view",  // Escolha o tema desejado
+  "maxRepos": 100         // Define o número máximo de repositórios a serem considerados
+}
