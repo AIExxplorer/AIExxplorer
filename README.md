@@ -11,9 +11,6 @@
   </tr>
 </table>
 
-
-
-
 ## <picture><img src = "https://utfs.io/f/51c574be-320f-48f4-a2f1-fdf673917ec9-qs4l1m.gif" width = 50px></picture> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=350&height=40&lines=Sobre+Mim" alt="Typing SVG" /></a>
 <picture><img align="right" src="https://utfs.io/f/1ab53b9b-9258-482f-b2d8-d33f4a82ed0c-a03rh6.gif" width = 250px></picture>
 
@@ -26,13 +23,10 @@
 - 😄 Pronouns: ele/dele
 <!--Intro end-->
 
-## <picture><img src = "https://utfs.io/f/d875764d-06bf-4067-9cef-3dda985bd47f-veji9v.gif" width = 50px></picture> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=350&height=40&lines=GitHub+Stats" alt="Typing SVG" /></a>
-
 <!--horizontal divider(gradiant)-->
 <div align="center" style="height: 480px;"> 
     <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png" style="max-height: 100%; height: auto;"><br><br>
 </div>
-
 
 <!-- Principal Table to align both sections side by side -->
 <table align="center" style="width:100%;">
@@ -187,9 +181,6 @@
   </tr>
 </table>
 
-
-
-
 <!--tools and skills-->
 <table align="center" style="width:100%">
   <tr>
@@ -292,13 +283,13 @@
 </tr>
 
 </table>
-
   
 <!--horizontal divider(gradiant)-->
 <div align="center" style="height: 480px;"> 
  <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png" style="max-height: 100%; height: auto;"><br><br>
 </div>
 
+## <picture><img src = "https://utfs.io/f/d875764d-06bf-4067-9cef-3dda985bd47f-veji9v.gif" width = 50px></picture> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=350&height=40&lines=GitHub+Stats" alt="Typing SVG" /></a>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
