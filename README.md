@@ -329,7 +329,7 @@
 <!-- Logo Centralizada -->
 <td width="30%" align="center" style="padding: 0;">
   <div style="display: flex; align-items: center; justify-content: center; width: 100%; height: 100%;">
-    <a href="https://www.linkedin.com/company/artificialuniverse/?viewAsMember=true" onclick="window.open(this.href, '_blank', 'width=800,height=600'); return false;">
+    <a href="https://www.linkedin.com/company/artificialuniverse/?viewAsMember=true" target="_blank" rel="noopener noreferrer">
       <img src="https://utfs.io/f/R5gnNDuWc5V9fwdSZroKCyNMLxTYwi3lZHpBSOPQ7IG56oA8" style="width: 250px; height: 250px; object-fit: contain;" alt="Logo Artificial Universe" />
     </a>
   </div>
