@@ -28,6 +28,27 @@
     <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png" style="max-height: 100%; height: auto;"><br><br>
 </div>
 
+<!-- Certifications Section -->
+<div align="center">
+    <details>
+        <summary style="cursor: pointer; font-size: 1.5em; text-align: center;">Certifications</summary>
+        <table align="center" style="border-collapse: collapse; margin: 20px auto;">
+            <tr>
+                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABhB0dtTXG1ZAXkEdVBCQsN7eqtH5x8lrzLgoO" alt="Certification Image" style="width: 200px; height: 150px; object-fit: contain;">
+                </td>
+            </tr>
+        </table>
+    </details>
+</div>
+
+<!--horizontal divider(gradiant)-->
+<div align="center" style="height: 480px;"> 
+    <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png" style="max-height: 100%; height: auto;"><br><br>
+</div>
+
+
+
 <!-- Principal Table to align both sections side by side -->
 <table align="center" style="width:100%;">
   <tr>
