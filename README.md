@@ -42,6 +42,13 @@
                 </td>
             </tr>
         </table>
+        <table align="center" style="margin: 20px auto;">
+            <tr>
+                <td style="text-align: center; font-size: 1em; color: #333;">
+                    🔍 <a href="https://www.credly.com/users/aiexxplorer" target="_blank" style="color: #0066cc; text-decoration: none;">Verifique a autenticidade das minhas certificações</a> ✅
+                </td>
+            </tr>
+        </table>
     </details>
 </div>
 
