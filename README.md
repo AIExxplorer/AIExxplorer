@@ -35,7 +35,10 @@
         <table align="center" style="border-collapse: collapse; margin: 20px auto;">
             <tr>
                 <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
-                    <img src="https://utfs.io/f/tOy8y2gDebABhB0dtTXG1ZAXkEdVBCQsN7eqtH5x8lrzLgoO" alt="Certification Image" style="width: 200px; height: 150px; object-fit: contain;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABhB0dtTXG1ZAXkEdVBCQsN7eqtH5x8lrzLgoO" alt="Certification AI" style="width: 200px; height: 150px; object-fit: contain;">
+                </td>
+                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebAB6eR5UKqIRSvL12zgKs7Zdbj8TlM9orytf5Di" alt="New Certification UX Design" style="width: 170px; height: 150px; object-fit: contain;">
                 </td>
             </tr>
         </table>
