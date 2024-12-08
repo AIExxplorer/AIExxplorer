@@ -44,10 +44,13 @@
                     <img src="https://utfs.io/f/tOy8y2gDebABkbQZ1CRsjG4yUvxAHFozewL0ITi1mOZNWDu7" alt="Badge 3" style="width: 200px; height: 150px; object-fit: contain;">
                 </td>
                 <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
-                    <img src="https://utfs.io/f/tOy8y2gDebABF2H9l6197DW6YQr8cFVjgLuZzPiX1bqHNE4f" alt="Badge 4" style="width: 200px; height: 150px; object-fit: contain;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABILbsA4uySAvkEUq3CX4PWoaG2DputlNQs0Yi" alt="Badge 4" style="width: 200px; height: 150px; object-fit: contain;">
                 </td>
                 <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
-                    <img src="https://utfs.io/f/tOy8y2gDebAB6eR5UKqIRSvL12zgKs7Zdbj8TlM9orytf5Di" alt="Badge 5" style="width: 200px; height: 150px; object-fit: contain;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABF2H9l6197DW6YQr8cFVjgLuZzPiX1bqHNE4f" alt="Badge 5" style="width: 200px; height: 150px; object-fit: contain;">
+                </td>
+                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebAB6eR5UKqIRSvL12zgKs7Zdbj8TlM9orytf5Di" alt="Badge 6" style="width: 200px; height: 150px; object-fit: contain;">
                 </td>
             </tr>
         </table>
