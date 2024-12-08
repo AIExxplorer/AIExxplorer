@@ -32,25 +32,25 @@
 <div align="center">
     <details>
         <summary style="cursor: pointer; font-size: 1.5em; text-align: center;">Certifications</summary>
-        <table align="center" style="border-collapse: collapse; margin: 20px auto;">
+        <table align="center" style="border-collapse: collapse; margin: 10px auto;">
             <tr>
-                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
-                    <img src="https://utfs.io/f/tOy8y2gDebABvLOjdpoOFyUXa8HpAVC52RGJwEeIBSqoL9K4" alt="Badge 1" style="width: 200px; height: 150px; object-fit: contain;">
+                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 170px; width: 120px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABvLOjdpoOFyUXa8HpAVC52RGJwEeIBSqoL9K4" alt="Badge 1" style="width: 120px; height: 100px; object-fit: contain;">
                 </td>
-                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
-                    <img src="https://utfs.io/f/tOy8y2gDebABhB0dtTXG1ZAXkEdVBCQsN7eqtH5x8lrzLgoO" alt="Badge 2" style="width: 200px; height: 150px; object-fit: contain;">
+                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 170px; width: 120px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABhB0dtTXG1ZAXkEdVBCQsN7eqtH5x8lrzLgoO" alt="Badge 2" style="width: 150px; height: 100px; object-fit: contain;">
                 </td>
-                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
-                    <img src="https://utfs.io/f/tOy8y2gDebABkbQZ1CRsjG4yUvxAHFozewL0ITi1mOZNWDu7" alt="Badge 3" style="width: 200px; height: 150px; object-fit: contain;">
+                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 170px; width: 120px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABkbQZ1CRsjG4yUvxAHFozewL0ITi1mOZNWDu7" alt="Badge 3" style="width: 160px; height: 110px; object-fit: contain;">
                 </td>
-                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
-                    <img src="https://utfs.io/f/tOy8y2gDebABILbsA4uySAvkEUq3CX4PWoaG2DputlNQs0Yi" alt="Badge 4" style="width: 200px; height: 150px; object-fit: contain;">
+                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 170px; width: 120px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABILbsA4uySAvkEUq3CX4PWoaG2DputlNQs0Yi" alt="Badge 4" style="width: 120px; height: 100px; object-fit: contain;">
                 </td>
-                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
-                    <img src="https://utfs.io/f/tOy8y2gDebABF2H9l6197DW6YQr8cFVjgLuZzPiX1bqHNE4f" alt="Badge 5" style="width: 200px; height: 150px; object-fit: contain;">
+                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 170px; width: 120px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABF2H9l6197DW6YQr8cFVjgLuZzPiX1bqHNE4f" alt="Badge 5" style="width: 120px; height: 100px; object-fit: contain;">
                 </td>
-                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 220px; width: 170px;">
-                    <img src="https://utfs.io/f/tOy8y2gDebAB6eR5UKqIRSvL12zgKs7Zdbj8TlM9orytf5Di" alt="Badge 6" style="width: 200px; height: 150px; object-fit: contain;">
+                <td style="display: flex; justify-content: center; align-items: center; border: none; height: 170px; width: 120px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebAB6eR5UKqIRSvL12zgKs7Zdbj8TlM9orytf5Di" alt="Badge 6" style="width: 120px; height: 100px; object-fit: contain;">
                 </td>
             </tr>
         </table>
