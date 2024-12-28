@@ -75,6 +75,9 @@
                 <td style="text-align: center; border: none; height: 200px; width: 150px;">
                     <img src="https://utfs.io/f/tOy8y2gDebABqcMSg6AsZN0DUKISzaJVlHp4tEghB2PmWOdv" alt="Badge 10" style="width: 150px; height: 150px; object-fit: contain;">
                 </td>
+                <td style="text-align: center; border: none; height: 200px; width: 150px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABAj4Ao8pZ9PcyL27SiYw1W3B8CfOeGE5ADFXa" alt="Badge 11" style="width: 150px; height: 150px; object-fit: contain;">
+                </td>
             </tr>
         </table>
         <table align="center" style="margin: 20px auto;">
