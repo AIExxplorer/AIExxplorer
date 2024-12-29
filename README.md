@@ -84,8 +84,20 @@
                <td style="text-align: center; border: none; height: 200px; width: 150px;">
                     <img src="https://utfs.io/f/tOy8y2gDebAB1AG9COl685yYSALZ7KrwMDgkXt9pv6ifOdJ4" alt="Badge 13" style="width: 150px; height: 150px; object-fit: contain;">
                 </td>
+               <td style="text-align: center; border: none; height: 200px; width: 150px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABQ11bNYB2kPBSqYDsarV6zEMHdcwOJ3CemGhX" alt="Badge 14" style="width: 150px; height: 150px; object-fit: contain;">
+                </td>
             </tr>
         </table>
+            <!-- Fourth Row -->
+        <table align="center" style="border-collapse: collapse; margin: 20px auto;">            
+            <tr>
+                <td style="text-align: center; border: none; height: 200px; width: 150px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABINchqKySAvkEUq3CX4PWoaG2DputlNQs0Yic" alt="Badge 15" style="width: 150px; height: 150px; object-fit: contain;">
+                </td>
+            </tr>
+        </table>
+  
         <table align="center" style="margin: 20px auto;">
             <tr>
                 <td style="text-align: center; font-size: 1em; color: #333;">
