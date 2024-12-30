@@ -100,7 +100,6 @@
                 </td>
             </tr>
         </table>
-  
         <table align="center" style="margin: 20px auto;">
             <tr>
                 <td style="text-align: center; font-size: 1em; color: #333;">
