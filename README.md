@@ -101,6 +101,9 @@
                <td style="text-align: center; border: none; height: 200px; width: 150px;">
                     <img src="https://utfs.io/f/tOy8y2gDebABRbdQ6khhQHLVKmxt5Mv3E9AN2X1BOy6Wq7GC" alt="Badge 17" style="width: 150px; height: 150px; object-fit: contain;">
                 </td>
+               <td style="text-align: center; border: none; height: 200px; width: 150px;">
+                    <img src="https://utfs.io/f/tOy8y2gDebABuGgp0cwdmijoDp9wCfPLyn1W7TNYM2g4GazS" alt="Badge 18" style="width: 150px; height: 150px; object-fit: contain;">
+                </td>              
             </tr>
         </table>
         <table align="center" style="margin: 20px auto;">
