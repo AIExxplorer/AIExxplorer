@@ -1,5 +1,6 @@
-<picture><img src = "https://ray.so/o18dgzz" alt="Happy new year!" width="400" height="300"
-</picture>
+<div align="center">
+    <img src="https://ray.so/ZfUo705" alt="Imagem centralizada" style="border-radius: 15px; max-width: 80%;">
+</div>
 <table align="center" style="width:100%">
   <tr>
     <td style="text-align: center; width: 50%;">
