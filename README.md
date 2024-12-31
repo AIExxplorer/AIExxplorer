@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://ray.so/ZfUo705" alt="Imagem centralizada" style="border-radius: 15px; max-width: 80%;">
+    <img src="https://ray.so/ZfUo705" alt="Imagem centralizada" style="border-radius: 15px; max-width: 80%; height: auto;">
 </div>
 <table align="center" style="width:100%">
   <tr>
