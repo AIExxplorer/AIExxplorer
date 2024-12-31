@@ -1,3 +1,8 @@
+
+<table align="center" style="width:100%">
+  <tr>
+<img src="https://ray.so/o18dgzz" alt="Happy new year!" width="400" height="300">
+
 <table align="center" style="width:100%">
   <tr>
     <td style="text-align: center; width: 50%;">
