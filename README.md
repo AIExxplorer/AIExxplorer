@@ -1,3 +1,4 @@
+
 <div align="center">
     <img src="https://utfs.io/f/LHbyWnn8DdVPtL48kOPrnHaYJLZAWMIqGVi75cmx2pkOgsfD" alt="Imagem centralizada" style="border-radius: 15px; max-width: 80%; height: auto;">
 </div>
