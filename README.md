@@ -18,7 +18,7 @@
 <!--Intro start-->
 - 🔭 Atualmente, estou me dedicando a projetos pessoais e colaborativos em Full-Stack, IA e Machine Learning, com foco em soluções inovadoras para empresas de tecnologia e startups.
 - 🌱 Cursando Análise e Desesenvolvimento de Sistemas
-- 🌱 Estudando Aprendizado de Máquina (Machine Learning) e Processamento de Linguagem Natural (NLP)
+- 🌱 Estudando Aprendizado de Máquina (Machine Learning), Processamento de Linguagem Natural (NLP) e Model Context Protocol (MCP)
 - 📩 Contate-me no email: aiexxplorer@artificialuniverse.tech
 - 😄 Pronouns: ele/dele
 <!--Intro end-->
