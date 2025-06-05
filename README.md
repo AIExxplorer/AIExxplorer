@@ -17,7 +17,7 @@
 <br><br>
 <!--Intro start-->
 - 🔭 Atualmente, estou me dedicando a projetos pessoais e colaborativos em Full-Stack, IA e Machine Learning, com foco em soluções inovadoras para empresas de tecnologia e startups.
-- 🌱 Cursando Análise e Desesenvolvimento de Sistemas
+- 🌱 Análista e Desesenvolvedor de Sistemas
 - 🌱 Estudando Aprendizado de Máquina (Machine Learning), Processamento de Linguagem Natural (NLP)
 - 📋 Especializando atualmente nos protocolos: Model Context Protocol (MCP) & NLWeb
 - 📩 Contate-me no email: aiexxplorer@artificialuniverse.tech
