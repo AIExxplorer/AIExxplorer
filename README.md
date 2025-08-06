@@ -20,6 +20,7 @@
 - 🌱 Análista e Desesenvolvedor de Sistemas
 - 🌱 Estudando Aprendizado de Máquina (Machine Learning), Processamento de Linguagem Natural (NLP)
 - 📋 Especializando atualmente nos protocolos: Model Context Protocol (MCP) & NLWeb
+- 📋 CNPq Lattes: 
 - 📩 Contate-me no email: aiexxplorer@artificialuniverse.tech
 - 😄 Pronouns: ele/dele
 <!--Intro end-->
