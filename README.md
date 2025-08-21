@@ -497,6 +497,8 @@
         </a>
         <br />
         <sub>Wagner Rafael</sub>
+        <br />
+        <sub>ISBN 978-65-01-64500-1</sub>
       </div>
     </td>
     <!-- Quadro do conteúdo principal de Jogo em Scratch -->
