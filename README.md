@@ -514,6 +514,17 @@
       </div>
     </td>
   </tr>
+  <tr>
+     <!-- Quadro Câmara Brasileira do Livro -->
+    <td align="center" style="padding: 10px;">
+      <div style="border: 0px solid #ccc; padding: 10px; background-color: #1a1a1a; display: inline-block; width: 100%; max-width: 300px;">
+          <img src="https://rp9z1p2n9a.ufs.sh/f/LHbyWnn8DdVPVgjWolpaNIpBwAF3zcYO1SXskabDWH8Zdexn" width="300" alt="Câmara Brasileira do Livro" />
+          <br />
+        </a>
+        <br />
+      </div>
+    </td>
+  </tr>
 </table>
 
 
