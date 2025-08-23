@@ -524,6 +524,16 @@
         <br />
       </div>
     </td>
+         <!-- Quadro CNPq -->
+    <td align="center" style="padding: 10px;">
+      <div style="border: 0px solid #ccc; padding: 10px; background-color: #1a1a1a; display: inline-block; width: 100%; max-width: 300px;">
+        <a href="https://lattes.cnpq.br/0478020276447375">
+          <img src="https://rp9z1p2n9a.ufs.sh/f/LHbyWnn8DdVPQnKQnuh8Tq1F5H4fg6W3MQkmxPDRbUenEL2B" width="300" alt="CNPq" />
+          <br />
+        </a>
+        <br />
+      </div>
+    </td>
   </tr>
 </table>
 
