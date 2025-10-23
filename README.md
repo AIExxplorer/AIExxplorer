@@ -16,7 +16,7 @@
 
 <br><br>
 <!--Intro start-->
-- 🔭 Atualmente, estou me dedicando a projetos pessoais e colaborativos em Full-Stack, IA e Machine Learning, com foco em soluções inovadoras para empresas de tecnologia e startups.
+- 🔭 Atualmente, estou me dedicando a projetos pessoais e colaborativos em Full-Stack, IA, Machine Learning e Automação, com foco em soluções inovadoras para empresas de tecnologia e startups.
 - 🌱 Análista e Desesenvolvedor de Sistemas
 - 🌱 Engenheiro de Aprendizado de Máquina (Machine Learning), Processamento de Linguagem Natural (NLP)
 - 📋 Especialista em protocolos: (MCP) Model Context Protocol & NLWeb
