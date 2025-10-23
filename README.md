@@ -18,8 +18,8 @@
 <!--Intro start-->
 - 🔭 Atualmente, estou me dedicando a projetos pessoais e colaborativos em Full-Stack, IA e Machine Learning, com foco em soluções inovadoras para empresas de tecnologia e startups.
 - 🌱 Análista e Desesenvolvedor de Sistemas
-- 🌱 Estudando Aprendizado de Máquina (Machine Learning), Processamento de Linguagem Natural (NLP)
-- 📋 Especializando atualmente nos protocolos: Model Context Protocol (MCP) & NLWeb
+- 🌱 Engenheiro de Aprendizado de Máquina (Machine Learning), Processamento de Linguagem Natural (NLP)
+- 📋 Especialista em protocolos: (MCP) Model Context Protocol & NLWeb
 - 📋 CNPq Lattes: 🔍 <a href="https://lattes.cnpq.br/0478020276447375" target="_blank" style="color: #0066cc; text-decoration: none;">Verifique o Currículo</a> 
 - 📩 Contate-me no email: aiexxplorer@artificialuniverse.tech
 - 😄 Pronouns: ele/dele
