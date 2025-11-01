@@ -32,6 +32,22 @@
 
 <!-- Certifications Section -->
 <div align="center">
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+```
+   █████╗ ██╗███████╗██╗  ██╗██╗  ██╗
+  ██╔══██╗██║██╔════╝╚██╗██╔╝╚██╗██╔╝
+  ███████║██║█████╗   ╚███╔╝  ╚███╔╝
+  ██╔══██║██║██╔══╝   ██╔██╗  ██╔██╗
+  ██║  ██║██║███████╗██╔╝ ██╗██╔╝ ██╗
+  ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+        </td>
+      </tr>
+    </table>
+  </div> 
     <details>
         <summary style="cursor: pointer; font-size: 1.5em; text-align: center;">Certifications</summary>
         <table align="center" style="border-collapse: collapse; margin: 20px auto;">
