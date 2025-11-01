@@ -30,24 +30,19 @@
     <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png" style="max-height: 100%; height: auto;"><br><br>
 </div>
 
-<!-- Certifications Section -->
-<div align="center">
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-```
+<!-- Assinatura UNICODE centralizada -->
+<div align="center" style="font-family: monospace; white-space: pre; font-size: 14px; line-height: 1.1; display: inline-block; text-align: center;">
+<pre style="margin: 0; padding: 0; text-align: center; background: transparent; border: none;">
    █████╗ ██╗███████╗██╗  ██╗██╗  ██╗
   ██╔══██╗██║██╔════╝╚██╗██╔╝╚██╗██╔╝
-  ███████║██║█████╗   ╚███╔╝  ╚███╔╝
-  ██╔══██║██║██╔══╝   ██╔██╗  ██╔██╗
+  ███████║██║█████╗    ╚███╔╝  ╚███╔╝ 
+  ██╔══██║██║██╔══╝    ██╔██╗  ██╔██╗ 
   ██║  ██║██║███████╗██╔╝ ██╗██╔╝ ██╗
   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
-        </td>
-      </tr>
-    </table>
-  </div> 
+</pre>
+</div>
+<!-- Certifications Section -->
+<div align="center">
     <details>
         <summary style="cursor: pointer; font-size: 1.5em; text-align: center;">Certifications</summary>
         <table align="center" style="border-collapse: collapse; margin: 20px auto;">
