@@ -18,6 +18,7 @@
 <!--Intro start-->
 - 🔭 Atualmente, estou me dedicando a projetos pessoais e colaborativos em Full-Stack, IA, Machine Learning e Automação, com foco em soluções inovadoras para empresas de tecnologia e startups.
 - 🌱 Análista e Desesenvolvedor de Sistemas
+- 🔍 Perito em Computação Forense associado <a href="https://sistema.apecof.org.br/" target="_blank" style="color: #0066cc; text-decoration: none;">APECOF</a> 
 - 🌱 Engenheiro de Aprendizado de Máquina (Machine Learning), Processamento de Linguagem Natural (NLP)
 - 📋 Especialista em protocolos: (MCP) Model Context Protocol & NLWeb
 - 📋 CNPq Lattes: 🔍 <a href="https://lattes.cnpq.br/0478020276447375" target="_blank" style="color: #0066cc; text-decoration: none;">Verifique o Currículo</a> 
