@@ -32,16 +32,25 @@
 </div>
 
 <!-- Assinatura UNICODE centralizada -->
-<div align="center" style="font-family: monospace; white-space: pre; font-size: 14px; line-height: 1.1; display: inline-block; text-align: center;">
-<pre style="margin: 0; padding: 0; text-align: center; background: transparent; border: none;">
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+
+```
    █████╗ ██╗███████╗██╗  ██╗██╗  ██╗
   ██╔══██╗██║██╔════╝╚██╗██╔╝╚██╗██╔╝
-  ███████║██║█████╗    ╚███╔╝  ╚███╔╝ 
-  ██╔══██║██║██╔══╝    ██╔██╗  ██╔██╗ 
+  ███████║██║█████╗   ╚███╔╝  ╚███╔╝
+  ██╔══██║██║██╔══╝   ██╔██╗  ██╔██╗
   ██║  ██║██║███████╗██╔╝ ██╗██╔╝ ██╗
   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-</pre>
+```
+
+  </td>
+    </tr>
+  </table>
 </div>
+
 <!-- Certifications Section -->
 <div align="center">
     <details>
