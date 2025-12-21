@@ -22,11 +22,11 @@
 - 🌱 Engenheiro de Aprendizado de Máquina (Machine Learning), Processamento de Linguagem Natural (NLP)
 - 📋 Especialista em protocolos: (MCP) Model Context Protocol & NLWeb
 - 📋 CNPq Lattes: 🔍 <a href="https://lattes.cnpq.br/0478020276447375" target="_blank" style="color: #0066cc; text-decoration: none;">Verifique o Currículo</a> 
-- 📩 *Contate-me através dos e-mails:*
+- 📩 <td style="bold">Contate-me através dos e-mails:</td>
  _•Tecnologia e Desenvolvimento:_ aiexxplorer@artificialuniverse.tech
  _•Computação Forense, Perícias, Investigação Digital, Consultoria:_ wagner.rafael@apecof.org.br
-- 🌐 *Meu portfólio* _(em constante desenvolvimento)_ *:* https://www.aiexx.dev
-- 🌐 *Conheça a Organização:* https://www.artificialuniverse.tech
+- 🌐 <td style="bold">Meu portfólio _(em constante desenvolvimento)_ :</td> https://www.aiexx.dev
+- 🌐 <td style="bold">Conheça a Organização:</td> https://www.artificialuniverse.tech
 - 😄 Pronouns: ele/dele
 <!--Intro end-->
 
