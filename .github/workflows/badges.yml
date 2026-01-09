@@ -2,8 +2,8 @@ name: Update Badges
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Executa diariamente às 5 AM Brasília (8 AM UTC)
-  workflow_dispatch:  # Permite execução manual
+    - cron: '0 8 * * *' # Executa diariamente às 5 AM Brasília (8 AM UTC)
+  workflow_dispatch: # Permite execução manual
 
 jobs:
   update-badges:
@@ -23,15 +23,16 @@ jobs:
           CREDLY_USER: aiexxplorer
           GH_TOKEN: ${{ github.token }}
           NUMBER_LAST_BADGES: 0
-          
-  - name: Remove White Background from Circular Badges
-    run: |
-      python3 -m pip install Pillow
-      python3 .github/scripts/remove_badge_background.py
-        - name: Commit Processed Badges
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "github-actions[bot]@users.noreply.github.com"
-      git add README.md
-      git commit -m "Process: Remove white backgrounds from circular badges" || true
-      git push
+
+      - name: Remove White Background from Circular Badges
+        run: |
+          python3 -m pip install Pillow
+          python3 .github/scripts/remove_badge_background.py
+
+      - name: Commit Processed Badges
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Process: Remove white backgrounds from circular badges" || true
+          git push
