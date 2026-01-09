@@ -30,7 +30,7 @@ function generateBadgesHTML() {
   
   BADGE_IDS.forEach(badgeId => {
     html += '<a href="https://www.credly.com/badges/' + badgeId + '" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 5px;">\n';
-    html += '<img src="https://www.credly.com/badges/' + badgeId + '/share" alt="Credly Badge" width="100" height="100" style="background-color: transparent;" />\n';
+    html += '<img src="https://www.credly.com/badges/' + badgeId + '.png" alt="Credly Badge" width="100" height="100" style="background-color: transparent;" />\n';
     html += '</a>\n';
   });
   
