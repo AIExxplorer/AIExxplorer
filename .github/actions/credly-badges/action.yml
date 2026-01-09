@@ -1,0 +1,19 @@
+name: 'Credly Badges Transparent'
+description: 'Fetch and update Credly badges with transparent backgrounds in your README'
+author: 'AIExxplorer'
+
+inputs:
+  credly-user:
+    description: 'Your Credly username'
+    required: true
+  gh-token:
+    description: 'GitHub token for authentication'
+    required: true
+
+runs:
+  using: 'node20'
+  main: 'index.js'
+
+branding:
+  icon: 'award'
+  color: 'blue'
