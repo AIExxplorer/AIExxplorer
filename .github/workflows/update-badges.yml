@@ -15,9 +15,9 @@ jobs:
           fetch-depth: 0
 
       - name: Update badges
-        uses: grubersjoe/badges-readme-action@main
+        uses: pemtajo/badge-readme@main
         with:
-          credly_username: aiexxplorer
+          CREDLY_USER: aiexxplorer
 
       - name: Commit and push changes
         run: |
