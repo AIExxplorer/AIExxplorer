@@ -20,3 +20,19 @@ jobs:
         with:
           CREDLY_USER: aiexxplorer
           NUMBER_LAST_BADGES: 0
+
+      - name: Convert badges to transparent PNG format
+        run: |
+          # Replace badge image URLs with transparent PNG versions
+          sed -i 's|https://images.credly.com/size/80x80/|https://images.credly.com/size/80x80_bw/|g' README.md
+          sed -i 's|_bw_bw|_bw|g' README.md
+        shell: bash
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update badges with transparent format"
+          git push
+        shell: bash
