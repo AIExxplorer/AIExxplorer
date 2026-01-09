@@ -29,10 +29,14 @@ function generateBadgesHTML() {
   let html = '\n<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">\n';
   
   BADGES.forEach(badgeId => {
-    html += '<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="' + badgeId + '" data-share-badge-host="https://www.credly.com"></div>\n';
+    // Generate public share links that show badge images
+    const shareUrl = 'https://www.credly.com/badges/' + badgeId;
+    html += '<a href="' + shareUrl + '" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 5px; text-decoration: none;">\n';
+    html += '<img loading="lazy" src="https://www.credly.com/badges/' + badgeId + '/share?t=svg" alt="Credly Badge" width="140" height="140" style="border-radius: 4px; background-color: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2);" />\n';
+    html += '</a>\n';
   });
   
-  html += '</div>\n<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>\n';
+  html += '</div>\n';
   return html;
 }
 
