@@ -33,26 +33,6 @@
 
 <!--START_SECTION:badges-->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/bbdf7c81-3c7d-41f2-918f-94aec6ae250d/blob" alt="Adobe Content Creator" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/e462102c-b2ee-4208-aca0-b58f53331266/image.png" alt="Python AI" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" alt="GenAI Dev" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/70675aed-31be-4c30-add7-b99905a34005/image.png" alt="IBM" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" alt="HTML/CSS/JS" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python DS" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png" alt="AI V2" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png" alt="GenAI" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="Prompt Eng" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png" alt="GenAI Essentials" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/4dd5d704-f681-4f33-b59b-92953e209239/blob" alt="Google PM" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/ca0efb3c-c7e4-47bb-a1be-5f75fee51b3e/image.png" alt="Google Data" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/5f2f1ecd-1124-4580-b8df-56f813f37de5/blob" alt="Google IT" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/d1efc77f-76b8-4e4f-bcc9-fef9e47b2d4c/image.png" alt="Google Security" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/b310a958-c9d7-47d4-892f-9194a1e5d12c/image.png" alt="Google Digital Marketing" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/d2b6a6df-0a7f-475c-bbf9-3e3456a2c12b/blob" alt="Google UX" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/8b846e18-c0ac-407b-adc5-c5f3f6a73e4c/image.png" alt="Google AI" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/2845b5da-5640-41f4-b10e-f7f1e9f7b2bc/image.png" alt="GenAI for Business" width="80" height="80" style="border-radius: 4px;"/></a>
-  <a href="https://www.credly.com/users/aiexxplorer/badges"><img src="https://images.credly.com/images/1ca3fa21-25f4-41bc-b3e2-e88fc2fb1d71/image.png" alt="Software Engineering" width="80" height="80" style="border-radius: 4px;"/></a>
 </div>
 <!--END_SECTION:badges-->
 
