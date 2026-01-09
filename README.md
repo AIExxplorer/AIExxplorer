@@ -57,6 +57,9 @@
   </table>
 </div>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <!-- Certifications Section -->
 <div align="center">
     <details>
