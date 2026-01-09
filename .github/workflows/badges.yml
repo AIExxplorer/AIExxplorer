@@ -2,17 +2,21 @@ name: Update Badges
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Executa todo domingo à meia-noite
-  workflow_dispatch:  # Permite executar manualmente
+    - cron: '0 2 * * *'  # Executa diariamente às 2 AM UTC
+  workflow_dispatch:    # Permite executar manualmente
 
 jobs:
   update-badges:
+    name: Update README with Credly Badges
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Update Badges
-        uses: badges/readme-badges@main
+        uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER_ID: aiexxplorer
+          CREDLY_USER: aiexxplorer
+          NUMBER_LAST_BADGES: 0
