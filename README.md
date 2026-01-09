@@ -57,12 +57,29 @@
   </table>
 </div>
 
+<style>
+  .badges-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    background: transparent;
+    padding: 20px 0;
+  }
+  .badges-section img {
+    background: transparent;
+    border: none;
+  }
+</style>
+
+<div class="badges-section">
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/9c29d54c-3bb2-4c81-ba42-ce5e29e024f7" title="Adobe Content Creator Professional Certificate"><img src="https://images.credly.com/size/80x80/images/bbdf7c81-3c7d-41f2-918f-94aec6ae250d/blob" alt="Adobe Content Creator Professional Certificate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5a000e6e-bddf-4716-8b86-632ff0c01768" title="Building Generative AI-Powered Applications with Python"><img src="https://images.credly.com/size/80x80/images/e462102c-b2ee-4208-aca0-b58f53331266/image.png" alt="Building Generative AI-Powered Applications with Python" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c3e07b05-d9e0-40dd-8f47-a56b22140c97" title="Generative AI Essentials for Software Developers"><img src="https://images.credly.com/size/80x80/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" alt="Generative AI Essentials for Software Developers" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/04ddc7e6-829f-462d-832e-04627f93007b" title="IBM AI Developer Professional Certificate"><img src="https://images.credly.com/size/80x80/images/70675aed-31be-4c30-add7-b99905a34005/image.png" alt="IBM AI Developer Professional Certificate" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/ae0a41ab-49da-4860-8fa1-a8dae552bd7a" title="Python Project for AI and Application Development"><img src="https://images.credly.com/size/80x80/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application Development" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/ae0a41ab-49da-4860-8fa1-a8dae552bd7a" title="Python Project for AI and Application Development"><img src="https://images.credly.com/size/80x80/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application 
+                                                                                                                                         </div>Development" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/57510dbe-b914-4315-af36-eb50cdfff872" title="Introduction to HTML, CSS, & JavaScript"><img src="https://images.credly.com/size/80x80/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" alt="Introduction to HTML, CSS, & JavaScript" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/16a6768e-f644-440d-8df6-3b0659eb0d94" title="Python for Data Science and AI"><img src="https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/626d8785-e8c8-47f4-acc9-80a8ee95cbb1" title="Artificial Intelligence Essentials V2"><img src="https://images.credly.com/size/80x80/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png" alt="Artificial Intelligence Essentials V2" width="80" height="80"></a>
