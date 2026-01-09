@@ -3,8 +3,7 @@
         <img src="https://utfs.io/f/d281edae-2e01-4eab-b0d1-a54e498e119b-avhxcl.png" alt="Logo AIExxplorer" width="300" height="150">
       </h1>
     </td>
-    <td style="text-align: center; width: 50%;">
-      <img src="https://utfs.io/f/0378fc38-2300-4123-9edd-d9bb72243010-jja9hg.gif" alt="Welcome Image" width="500" height="250">
+<td style="padding: 10px; text-align: center; background-color: white; border: none;">      <img src="https://utfs.io/f/0378fc38-2300-4123-9edd-d9bb72243010-jja9hg.gif" alt="Welcome Image" width="500" height="250">
     </td>
   </tr>
 </table>
@@ -39,19 +38,15 @@
     <td style="padding: 10px; text-align: center;">
       <a href="https://www.credly.com/badges/5a000e6e-bddf-4716-8b86-632ff0c01768" title="Building Generative AI-Powered Applications with Python"><img src="https://images.credly.com/size/80x80/images/e462102c-b2ee-4208-aca0-b58f53331266/image.png" alt="Building Generative AI-Powered Applications with Python" width="80" height="80"></a>
     </td>
-    <td style="padding: 10px; text-align: center;">
-      <a href="https://www.credly.com/badges/c3e07b05-d9e0-40dd-8f47-a56b22140c97" title="Generative AI Essentials for Software Developers"><img src="https://images.credly.com/size/80x80/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" alt="Generative AI Essentials for Software Developers" width="80" height="80"></a>
+<td style="padding: 10px; text-align: center; background-color: white; border: none;">      <a href="https://www.credly.com/badges/c3e07b05-d9e0-40dd-8f47-a56b22140c97" title="Generative AI Essentials for Software Developers"><img src="https://images.credly.com/size/80x80/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" alt="Generative AI Essentials for Software Developers" width="80" height="80"></a>
     </td>
-    <td style="padding: 10px; text-align: center;">
-      <a href="https://www.credly.com/badges/04ddc7e6-829f-462d-832e-04627f93007b" title="IBM AI Developer Professional Certificate"><img src="https://images.credly.com/size/80x80/images/70675aed-31be-4c30-add7-b99905a34005/image.png" alt="IBM AI Developer Professional Certificate" width="80" height="80"></a>
+<td style="padding: 10px; text-align: center; background-color: white; border: none;">      <a href="https://www.credly.com/badges/04ddc7e6-829f-462d-832e-04627f93007b" title="IBM AI Developer Professional Certificate"><img src="https://images.credly.com/size/80x80/images/70675aed-31be-4c30-add7-b99905a34005/image.png" alt="IBM AI Developer Professional Certificate" width="80" height="80"></a>
     </td>
-    <td style="padding: 10px; text-align: center;">
-      <a href="https://www.credly.com/badges/ae0a41ab-49da-4860-8fa1-a8dae552bd7a" title="Python Project for AI and Application Development"><img src="https://images.credly.com/size/80x80/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application Development" width="80" height="80"></a>
+<td style="padding: 10px; text-align: center; background-color: white; border: none;">      <a href="https://www.credly.com/badges/ae0a41ab-49da-4860-8fa1-a8dae552bd7a" title="Python Project for AI and Application Development"><img src="https://images.credly.com/size/80x80/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application Development" width="80" height="80"></a>
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px; text-align: center;">
-      <a href="https://www.credly.com/badges/57510dbe-b914-4315-af36-eb50cdfff872" title="Introduction to HTML, CSS, & JavaScript"><img src="https://images.credly.com/size/80x80/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" alt="Introduction to HTML, CSS, & JavaScript" width="80" height="80"></a>
+<td style="padding: 10px; text-align: center; background-color: white; border: none;">      <a href="https://www.credly.com/badges/57510dbe-b914-4315-af36-eb50cdfff872" title="Introduction to HTML, CSS, & JavaScript"><img src="https://images.credly.com/size/80x80/images/09490195-093b-4c9f-9f31-bdc434e66a23/Coursera_20Introduction_20to_20HTML_20CSS_20and_20JavaScript.png" alt="Introduction to HTML, CSS, & JavaScript" width="80" height="80"></a>
     </td>
     <td style="padding: 10px; text-align: center;">
       <a href="https://www.credly.com/badges/16a6768e-f644-440d-8df6-3b0659eb0d94" title="Python for Data Science and AI"><img src="https://images.credly.com/size/80x80/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI" width="80" height="80"></a>
@@ -73,19 +68,15 @@
     <td style="padding: 10px; text-align: center;">
       <a href="https://www.credly.com/badges/8e5af734-f817-427d-b0eb-b8720d800d60" title="GenAI for Executives & Business Leaders: An Introduction"><img src="https://images.credly.com/size/80x80/images/4611b9ff-09ca-4ed9-a36e-2be3f57fdf83/blob" alt="GenAI for Executives & Business Leaders: An Introduction" width="80" height="80"></a>
     </td>
-    <td style="padding: 10px; text-align: center;">
-      <a href="https://www.credly.com/badges/9cf0ae8f-461a-48f4-93d1-b6691d1eb7a3" title="Software Engineering Essentials"><img src="https://images.credly.com/size/80x80/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" alt="Software Engineering Essentials" width="80" height="80"></a>
+<td style="padding: 10px; text-align: center; background-color: white; border: none;">      <a href="https://www.credly.com/badges/9cf0ae8f-461a-48f4-93d1-b6691d1eb7a3" title="Software Engineering Essentials"><img src="https://images.credly.com/size/80x80/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" alt="Software Engineering Essentials" width="80" height="80"></a>
     </td>
     <td style="padding: 10px; text-align: center;">
-      <a href="https://www.credly.com/badges/73cf24d9-62e8-4146-ae1d-07825c19680d" title="Google Project Management Professional Certificate (v2)"><img src="https://images.credly.com/size/80x80/images/a34119f2-402f-4443-8555-ccfe2520f1df/GCC_badge_PGM_1000x1000.png" alt="Google Project Management Professional Certificate (v2)" width="80" height="80"></a>
-    </td>
+<td style="padding: 10px; text-align: center; background-color: white; border: none;">    </td>
     <td style="padding: 10px; text-align: center;">
       <a href="https://www.credly.com/badges/38be52ac-9c68-46ad-92e9-2be602eef789" title="Google Data Analytics Professional Certificate"><img src="https://images.credly.com/size/80x80/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate" width="80" height="80"></a>
-    </td>
-  </tr>
+<td style="padding: 10px; text-align: center; background-color: white; border: none;">  </tr>
   <tr>
-    <td style="padding: 10px; text-align: center;">
-      <a href="https://www.credly.com/badges/cefe35b9-6fb1-4e13-b383-20e44036e943" title="Google IT Support Professional Certificate (v2)"><img src="https://images.credly.com/size/80x80/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Professional Certificate (v2)" width="80" height="80"></a>
+<td style="padding: 10px; text-align: center; background-color: white; border: none;">      <a href="https://www.credly.com/badges/cefe35b9-6fb1-4e13-b383-20e44036e943" title="Google IT Support Professional Certificate (v2)"><img src="https://images.credly.com/size/80x80/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Professional Certificate (v2)" width="80" height="80"></a>
     </td>
     <td style="padding: 10px; text-align: center;">
       <a href="https://www.credly.com/badges/5d1431f0-a1da-473e-bfb9-2e55511ca7b3" title="Google Cybersecurity Professional Certificate V2"><img src="https://images.credly.com/size/80x80/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate V2" width="80" height="80"></a>
