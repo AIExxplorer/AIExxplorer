@@ -31,6 +31,9 @@
 - 😄 Pronouns: ele/dele
 <!--Intro end-->
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <!--horizontal divider(gradiant)-->
 <div align="center" style="height: 480px;"> 
     <img src="https://utfs.io/f/b335c871-330e-40ac-86ae-cf95f49dc387-fpc30i.png" style="max-height: 100%; height: auto;"><br><br>
