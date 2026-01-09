@@ -1,0 +1,18 @@
+name: Update Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Executa todo domingo à meia-noite
+  workflow_dispatch:  # Permite executar manualmente
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update Badges
+        uses: badges/readme-badges@main
+        with:
+          CREDLY_USER_ID: aiexxplorer
