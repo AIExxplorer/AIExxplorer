@@ -1,0 +1,11 @@
+{
+  "name": "credly-badges-transparent",
+  "version": "1.0.0",
+  "description": "GitHub Action to fetch and display Credly badges with transparent backgrounds",
+  "main": "index.js",
+  "author": "AIExxplorer",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
