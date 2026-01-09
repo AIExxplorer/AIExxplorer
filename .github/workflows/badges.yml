@@ -25,10 +25,9 @@ jobs:
       
       - name: Convert badges to transparent PNG format
         run: |
-          # Replace badge image URLs with transparent PNG versions
-          sed -i 's|https://images.credly.com/size/80x80/|https://images.credly.com/size/80x80_bw/|g' README.md
-          sed -i 's|_bw_bw|_bw|g' README.md
-          sed -i 's|](https://www.credly.com|\n](https://www.credly.com|g' README.md
+          # Converter URLs para versão transparente com fundo branco para fundo transparente
+          # Substitui /size/80x80/ por /size/80x80_bw/ para obter badges com fundo transparente
+          sed -i 's|/size/80x80/|/size/80x80_bw/|g' README.md
         shell: bash
       
       - name: Commit and push changes
