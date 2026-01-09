@@ -2,8 +2,8 @@ name: Update Badges
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Executa diariamente às 2 AM UTC
-  workflow_dispatch:    # Permite executar manualmente
+    - cron: '0 2 * * *' # Executa diariamente às 2 AM UTC
+  workflow_dispatch: # Permite executar manualmente
 
 jobs:
   update-badges:
@@ -16,20 +16,21 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-
+      
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: aiexxplorer
           NUMBER_LAST_BADGES: 0
-
+      
       - name: Convert badges to transparent PNG format
         run: |
           # Replace badge image URLs with transparent PNG versions
           sed -i 's|https://images.credly.com/size/80x80/|https://images.credly.com/size/80x80_bw/|g' README.md
           sed -i 's|_bw_bw|_bw|g' README.md
+          sed -i 's|](https://www.credly.com|\n](https://www.credly.com|g' README.md
         shell: bash
-
+      
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
