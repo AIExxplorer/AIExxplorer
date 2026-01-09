@@ -32,9 +32,6 @@
 <!--Intro end-->
 
 <!--START_SECTION:badges-->
-<!-- Widget Credly Badges com fundo transparente via GitHub Pages -->
-
-<embed src="https://AIExxplorer.github.io/credly-badges-widget/widget.html?user=aiexxplorer" width="800" height="300" type="text/html">
 
 <div style="display:inline-block;mix-blend-mode:lighten;background:transparent;"><a href="https://www.credly.com/badges/9c29d54c-3bb2-4c81-ba42-ce5e29e024f7" title="Adobe Content Creator Professional Certificate"><img src="https://images.credly.com/size/80x80/images/bbdf7c81-3c7d-41f2-918f-94aec6ae250d/blob" alt="Adobe Content Creator Professional Certificate" width="80" height="80"></a></div>
 <a href="https://www.credly.com/badges/5a000e6e-bddf-4716-8b86-632ff0c01768" title="Building Generative AI-Powered Applications with Python"><img src="https://images.credly.com/size/80x80/images/e462102c-b2ee-4208-aca0-b58f53331266/image.png" alt="Building Generative AI-Powered Applications with Python" width="80" height="80"></a>
