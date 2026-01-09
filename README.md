@@ -1,4 +1,3 @@
-<table align="center" style="width:100%">
   <tr>
     <td style="text-align: center; width: 50%;">
       <h1 align="center">
