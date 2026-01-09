@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0
 
       - name: Update badges
-        uses: badges/readme@main
+        uses: grubersjoe/badges-readme-action@main
         with:
           credly_username: aiexxplorer
 
