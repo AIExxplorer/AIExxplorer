@@ -1,6 +1,5 @@
   <tr>
-    <td style="text-align: center; width: 50%;">
-      <h1 align="center">
+<td style="padding: 10px; text-align: center; background-color: white; border: none;">      <h1 align="center">
         <img src="https://utfs.io/f/d281edae-2e01-4eab-b0d1-a54e498e119b-avhxcl.png" alt="Logo AIExxplorer" width="300" height="150">
       </h1>
     </td>
