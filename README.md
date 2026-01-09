@@ -33,67 +33,28 @@
 
 <!--START_SECTION:badges-->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <a href="https://credly.com/badges/9c29d54c-3bb2-4c81-ba42-ce5e29e024f7" target="_blank" rel="noopener noreferrer" title="Adobe Content Creator Professional Certificate" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/9c29d54c-3bb2-4c81-ba42-ce5e29e024f7_1725379769__badge-standard.png" alt="Adobe Content Creator Professional Certificate" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/52299ca6-8654-4d14-89f5-4c3fb6f89667" target="_blank" rel="noopener noreferrer" title="Building Generative AI-Powered Applications with Python" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/52299ca6-8654-4d14-89f5-4c3fb6f89667_1725379769__badge-standard.png" alt="Building Generative AI-Powered Applications with Python" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/06e208e1-48fb-48ab-917e-75fb5a2ea5e0" target="_blank" rel="noopener noreferrer" title="Generative AI Essentials for Software Developers" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/06e208e1-48fb-48ab-917e-75fb5a2ea5e0_1725379769__badge-standard.png" alt="Generative AI Essentials for Software Developers" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/02fa5047-eeca-4b3f-ba0a-23681ec20e61" target="_blank" rel="noopener noreferrer" title="IBM AI Developer Professional Certificate" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/02fa5047-eeca-4b3f-ba0a-23681ec20e61_1725379769__badge-standard.png" alt="IBM AI Developer Professional Certificate" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/e09c10a6-2c76-4183-a1bd-1dbb4f6eb8f0" target="_blank" rel="noopener noreferrer" title="Python Project for AI and Application Development" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/e09c10a6-2c76-4183-a1bd-1dbb4f6eb8f0_1725379769__badge-standard.png" alt="Python Project for AI and Application Development" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/5d4e0f8a-02ac-45c0-8825-5e8e1c5ce69d" target="_blank" rel="noopener noreferrer" title="Introduction to HTML, CSS, & JavaScript" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/5d4e0f8a-02ac-45c0-8825-5e8e1c5ce69d_1725379769__badge-standard.png" alt="Introduction to HTML, CSS, & JavaScript" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/1d0f74a1-2a2e-4d29-88ea-36b089bede45" target="_blank" rel="noopener noreferrer" title="Python for Data Science and AI" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/1d0f74a1-2a2e-4d29-88ea-36b089bede45_1725379769__badge-standard.png" alt="Python for Data Science and AI" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/64c9d0a3-aaf4-481b-956d-26f4e75ac9fd" target="_blank" rel="noopener noreferrer" title="Artificial Intelligence Essentials V2" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/64c9d0a3-aaf4-481b-956d-26f4e75ac9fd_1725379769__badge-standard.png" alt="Artificial Intelligence Essentials V2" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/8c1e4c6d-7d38-4e51-8eb2-5d4a0c6f7e8a" target="_blank" rel="noopener noreferrer" title="Generative AI Essentials" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/8c1e4c6d-7d38-4e51-8eb2-5d4a0c6f7e8a_1725379769__badge-standard.png" alt="Generative AI Essentials" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/9bb9c4d8-4eb3-4f7b-8b3f-6a7c5d9e2f1a" target="_blank" rel="noopener noreferrer" title="Generative AI: Prompt Engineering" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/9bb9c4d8-4eb3-4f7b-8b3f-6a7c5d9e2f1a_1725379769__badge-standard.png" alt="Generative AI: Prompt Engineering" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d" target="_blank" rel="noopener noreferrer" title="GenAI for Execs & Business Leaders: Integration Strategy" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d_1725379769__badge-standard.png" alt="GenAI for Execs & Business Leaders: Integration Strategy" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/b5c6d7e8-f9a0-1b2c-3d4e-5f6a7b8c9d0e" target="_blank" rel="noopener noreferrer" title="GenAI for Executives & Business Leaders: An Introduction" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/b5c6d7e8-f9a0-1b2c-3d4e-5f6a7b8c9d0e_1725379769__badge-standard.png" alt="GenAI for Executives & Business Leaders: An Introduction" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/c7d8e9f0-a1b2-3c4d-5e6f-7a8b9c0d1e2f" target="_blank" rel="noopener noreferrer" title="Software Engineering Essentials" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/c7d8e9f0-a1b2-3c4d-5e6f-7a8b9c0d1e2f_1725379769__badge-standard.png" alt="Software Engineering Essentials" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/d9e0f1a2-b3c4-5d6e-7f8a-9b0c1d2e3f4a" target="_blank" rel="noopener noreferrer" title="Google Project Management Professional Certificate (v2)" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/d9e0f1a2-b3c4-5d6e-7f8a-9b0c1d2e3f4a_1725379769__badge-standard.png" alt="Google Project Management Professional Certificate (v2)" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/ea1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b" target="_blank" rel="noopener noreferrer" title="Google Data Analytics Professional Certificate" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/ea1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b_1725379769__badge-standard.png" alt="Google Data Analytics Professional Certificate" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/fb2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c" target="_blank" rel="noopener noreferrer" title="Google IT Support Professional Certificate (v2)" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/fb2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c_1725379769__badge-standard.png" alt="Google IT Support Professional Certificate (v2)" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f" target="_blank" rel="noopener noreferrer" title="Google Cybersecurity Professional Certificate V2" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f_1725379769__badge-standard.png" alt="Google Cybersecurity Professional Certificate V2" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/1d2e3f4a-5b6c-7d8e-9f0a-1b2c3d4e5f6a" target="_blank" rel="noopener noreferrer" title="Google Digital Marketing and E-Commerce Professional Certificate" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/1d2e3f4a-5b6c-7d8e-9f0a-1b2c3d4e5f6a_1725379769__badge-standard.png" alt="Google Digital Marketing and E-Commerce Professional Certificate" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/2e3f4a5b-6c7d-8e9f-0a1b-2c3d4e5f6a7b" target="_blank" rel="noopener noreferrer" title="Google UX Design Professional Certificate" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/2e3f4a5b-6c7d-8e9f-0a1b-2c3d4e5f6a7b_1725379769__badge-standard.png" alt="Google UX Design Professional Certificate" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
-  <a href="https://credly.com/badges/3f4a5b6c-7d8e-9f0a-1b2c-3d4e5f6a7b8c" target="_blank" rel="noopener noreferrer" title="Google AI Essentials V1" style="display: inline-block; text-decoration: none; margin: 5px;">
-    <img src="https://images.credly.com/size/340x340/open_badges/open_badges/3f4a5b6c-7d8e-9f0a-1b2c-3d4e5f6a7b8c_1725379769__badge-standard.png" alt="Google AI Essentials V1" width="120" height="120" style="border-radius: 8px; background-color: transparent; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c29d54c-3bb2-4c81-ba42-ce5e29e024f7" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="52299ca6-8654-4d14-89f5-4c3fb6f89667" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="06e208e1-48fb-48ab-917e-75fb5a2ea5e0" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="02fa5047-eeca-4b3f-ba0a-23681ec20e61" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e09c10a6-2c76-4183-a1bd-1dbb4f6eb8f0" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5d4e0f8a-02ac-45c0-8825-5e8e1c5ce69d" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1d0f74a1-2a2e-4d29-88ea-36b089bede45" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="64c9d0a3-aaf4-481b-956d-26f4e75ac9fd" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c1e4c6d-7d38-4e51-8eb2-5d4a0c6f7e8a" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9bb9c4d8-4eb3-4f7b-8b3f-6a7c5d9e2f1a" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b5c6d7e8-f9a0-1b2c-3d4e-5f6a7b8c9d0e" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c7d8e9f0-a1b2-3c4d-5e6f-7a8b9c0d1e2f" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d9e0f1a2-b3c4-5d6e-7f8a-9b0c1d2e3f4a" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ea1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fb2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0c1d2e3f-4a5b-6c7d-8e9f-0a1b2c3d4e5f" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1d2e3f4a-5b6c-7d8e-9f0a-1b2c3d4e5f6a" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2e3f4a5b-6c7d-8e9f-0a1b-2c3d4e5f6a7b" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3f4a5b6c-7d8e-9f0a-1b2c-3d4e5f6a7b8c" data-share-badge-host="https://www.credly.com"></div>
 </div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--END_SECTION:badges-->
 
 <!-- Certifications Section -->
