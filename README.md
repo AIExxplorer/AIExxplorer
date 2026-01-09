@@ -32,7 +32,6 @@
 <!--Intro end-->
 
 <!--START_SECTION:badges-->
-<div style="text-align: center; background-color: transparent; padding: 20px;">
 <a href="https://www.credly.com/badges/9c29d54c-3bb2-4c81-ba42-ce5e29e024f7" title="Adobe Content Creator Professional Certificate"><img src="https://images.credly.com/size/80x80/images/bbdf7c81-3c7d-41f2-918f-94aec6ae250d/blob" alt="Adobe Content Creator Professional Certificate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5a000e6e-bddf-4716-8b86-632ff0c01768" title="Building Generative AI-Powered Applications with Python"><img src="https://images.credly.com/size/80x80/images/e462102c-b2ee-4208-aca0-b58f53331266/image.png" alt="Building Generative AI-Powered Applications with Python" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c3e07b05-d9e0-40dd-8f47-a56b22140c97" title="Generative AI Essentials for Software Developers"><img src="https://images.credly.com/size/80x80/images/afaacd18-d4a9-48af-b54c-846615756ec7/image.png" alt="Generative AI Essentials for Software Developers" width="80" height="80"></a>
@@ -53,7 +52,6 @@
 <a href="https://www.credly.com/badges/44dd7914-6db5-4fcd-8adb-6aaedad48da2" title="Google Digital Marketing and E-Commerce Professional Certificate"><img src="https://images.credly.com/size/80x80/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png" alt="Google Digital Marketing and E-Commerce Professional Certificate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/fb5fce2d-3dba-4142-9f13-90362996db20" title="Google UX Design Professional Certificate"><img src="https://images.credly.com/size/80x80/images/f4b9febb-69f6-46d8-8797-1e504ebfe0f8/GCC_badge_UX_1000x1000.png" alt="Google UX Design Professional Certificate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/87cc8e76-7ab5-423b-94c3-46a9b6682ce7" title="Google AI Essentials V1"><img src="https://images.credly.com/size/80x80/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials V1" width="80" height="80"></a>
-</div>
 <!--END_SECTION:badges-->
 
 <!-- Certifications Section -->
