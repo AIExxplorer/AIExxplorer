@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Update Badges
         uses: pemtajo/badge-readme@main
@@ -28,11 +30,14 @@ jobs:
           sed -i 's|_bw_bw|_bw|g' README.md
         shell: bash
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update badges with transparent format"
-          git push
+          if ! git diff --quiet HEAD; then
+            git commit -m "chore: update badges with transparent format"
+            git pull --ff-only
+            git push
+          fi
         shell: bash
